@@ -1,0 +1,782 @@
+
+  .table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  th {
+    text-align: left;
+    padding: 8px;
+    color:black;
+    border: 1px solid black;
+
+  }
+   td {
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+  }
+  
+  /* tr:nth-child(even){background-color: #f2f2f2} */
+  #container {
+    column-count:2;
+    -moz-column-count:2;
+    -webkit-column-count:2;
+    
+    width:200px;
+    height:200px;
+}
+
+#tbl {
+    
+}
+  .input-card1{
+    width: 86px;
+    border-radius: 10px;
+    margin-top: -2px;
+    background: #290202;
+    padding-left: 10px;
+    margin-left:-2px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+  }
+
+  .centeredmy15 {
+    position: absolute;
+    top: 29%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    /* font-family: 'Volkhov', serif; */
+    font-family: 'Bevan', serif;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 1rem;
+    font-size: -webkit-xxx-large;
+}
+.card3_center{
+  position: absolute!important;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.login_btn1{
+  background-color: #229073;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 144px;
+  height: 59px;
+}
+.th{
+  color: #000000;
+}
+.table,  td {
+  border: 1px solid #212529 !important;
+  border-collapse: collapse;
+}
+.table,  th {
+  border: 1px solid #060f29 !important;
+  border-collapse: collapse;
+}
+.mydivadmindiv{
+  background-color: #ddd;
+  padding: 2em;
+  position: absolute!important;
+  left: 34%;
+  top: 59%;
+  transform: translate(-50%, -50%);
+  width: 823px;
+  height: 528px;
+  /* display: flex; */
+  /* justify-content: center; */
+  margin-left: 126px;
+  margin-top: -102px;
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+  margin-top: 85px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+a:hover {
+  color: #0056b3;
+  /* text-decoration: underline; */
+}
+a:hover {
+  /* color: #0056b3; */
+  text-decoration: none;
+}
+
+/* Style page content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.column1 {
+  float: left;
+  width: 20%;
+  /* padding: 10px; */
+  height: 800px; /* Should be removed. Only for demonstration */
+}
+.column2 {
+  float: left;
+  width: 80%;
+  /* padding: 10px; */
+  height: 800px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.input-group-prepend {
+  margin-right: -6px;
+}
+
+.w3-card, .w3-card-2 {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+.w3-panel {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.adimupdate{
+  text-align: center;
+    position: fixed;
+    /* margin: -28px; */
+    /* margin-right: 95px; */
+    margin-left: 305px;
+    margin-top: -44px;
+}
+
+.updatewicket{
+  text-align: center;
+    position: fixed;
+    /* margin: -28px; */
+    /* margin-right: 95px; */
+    margin-left: 645px;
+    margin-top: -44px;
+}
+.updatewicket1{
+  text-align: center;
+  position: fixed;
+  /* margin: -28px; */
+  /* margin-right: 95px; */
+  margin-left: 836px;
+  margin-top: -44px;
+}
+.session{
+  text-align: center;
+  position: fixed;
+  /* margin: -28px; */
+  /* margin-right: 95px; */
+  margin-left: 701px;
+  margin-top: -44px;
+}
+.adimupdatebutton8{
+  text-align: center;
+  position: fixed;
+  /* margin: -28px; */
+  /* margin-right: 95px; */
+  margin-left: 893px;
+  margin-top: -44px;
+}
+
+.betSelected {
+  width: 95px;
+    color: aliceblue;
+    margin-left: -10px;
+    background: linear-gradient(#9dc82c, #37770c);
+    font-weight: bold;
+}
+
+
+@media(min-width:1499px){
+  .live_cricket_card{
+      height: 650px;
+      width: 1400px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:1499px) and (min-width:1400px){
+  .live_cricket_card{
+      height: 650px;
+      width: 1350px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:1399px) and (min-width:1300px){
+  .live_cricket_card{
+      height: 650px;
+      width: 1250px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:1299px) and (min-width:1200px){
+  .live_cricket_card{
+      height: 650px;
+      width: 1150px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:1199px) and (min-width:1100px){
+  .live_cricket_card{
+      height: 650px;
+      width: 1050px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:1099px) and (min-width:900px){
+  .live_cricket_card{
+      height: 650px;
+      width: 950px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:999px) and (min-width:900px){
+  .live_cricket_card{
+      height: 650px;
+      width: 850px;
+      position: absolute;
+      left: 50%;
+      top: 54%;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:899px) and (min-width:800px){
+  .live_cricket_card{
+      height: 650px;
+      width: 750px;
+      position: absolute;
+      left: 50%;
+      top: 386px;;
+      transform: translate(-50%, -50%);
+  }
+}
+@media(max-width:799px) and (min-width:700px){
+  .live_cricket_card{
+      height: 650px;
+      width: 690px;
+      position: absolute;
+      left: 50%;
+      top: 324px;
+      transform: translate(-50%, -40%);
+  }
+}
+@media(max-width:699px) and (min-width:600px){
+  .live_cricket_card{
+      height: 650px;
+      width: 590px;
+      position: absolute;
+      left: 50%;
+      top: 324px;
+      transform: translate(-50%, -40%);
+  }
+}
+@media(max-width:599px) and (min-width:500px){
+  .live_cricket_card{
+      height: 650px;
+      width: 490px;
+      position: absolute;
+      left: 50%;
+      top: 319px;
+      transform: translate(-50%, -40%);
+  }
+}
+@media(max-width:499px) and (min-width:400px){
+  .live_cricket_card{
+      height: 650px;
+      width: 390px;
+      position: absolute;
+      left: 50%;
+      top: 319px;
+      transform: translate(-50%, -40%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:399px) and (min-width:387px){
+  .live_cricket_card{
+      height: 650px;
+      width: 386px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:388px) and (min-width:377px){
+  .live_cricket_card{
+      height: 650px;
+      width: 376px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:376px) and (min-width:367px){
+  .live_cricket_card{
+      height: 650px;
+      width: 366px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+
+
+}
+@media(max-width:366px) and (min-width:357px){
+  .live_cricket_card{
+      height: 650px;
+      width: 356px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:356px) and (min-width:347px){
+  .live_cricket_card{
+      height: 650px;
+      width: 346px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+            transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:346px) and (min-width:337px){
+  .live_cricket_card{
+      height: 650px;
+      width: 336px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:336px) and (min-width:327px){
+  .live_cricket_card{
+      height: 650px;
+      width: 336px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+@media(max-width:326px) and (min-width:320px){
+  .live_cricket_card{
+      height: 650px;
+      width: 319px;
+      position: absolute;
+      left: 50%;
+      top: 290px;
+      transform: translate(-50%, -35%);
+  }
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 10px;
+    padding: 10px;
+ }
+ .table td{
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  padding: 4px;
+  font-size: 11px;
+ }
+}
+
+
+/* [type="date"] {
+  background:#fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png)  97% 50% no-repeat ;
+}
+[type="date"]::-webkit-inner-spin-button {
+  display: none;
+}
+[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+} */
+
+/* custom styles */
+body {
+  padding: 4em;
+  background: #000000;
+  font: 13px/1.4 Geneva, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+label {
+  display: block;
+}
+input {
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 3px 5px;
+  box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+  width: 190px;
+}
+
+
+.dropbtn {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  width: 76px;
+  /* margin: -9px; */
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #000;
+  padding: 6px 16px;
+  text-decoration: none;
+  display: block;
+  width: 164px;
+  border: #060f29;
+  border: 1px;
+  border-block-end-color: black
+}
+
+/* .dropdown-content a:hover {background-color: #;} */
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #5fb9f5;}
+
+
+
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+.column1 {
+  float: left;
+  width: 100%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  .column1 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.adimupdatebutton{
+  background: gold;
+}
+
+
+
+
+
+input[type="date"]::before {
+	color: #ffffff;
+	content: attr(placeholder);
+}
+input[type="date"] {
+	color: #ffffff;
+}
+input[type="date"]:focus,
+input[type="date"]:valid {
+	color: #ffffff;
+}
+input[type="date"]:focus::before,
+input[type="date"]:valid::before {
+	content: "" !important;
+}
+
+
+
+
+
+
+
+/*  */
+
+.pagination {
+	margin: 0;
+	text-align: center
+}
+
+.pagination-next-prev {
+	position: relative;
+	top: -66px
+}
+
+.pagination ul {
+	margin: 0!important;;
+	padding: 0!important;
+}
+
+.pagination ul li {
+	display: inline-block;
+	margin: 0;
+	padding: 0
+}
+
+.pagination ul li a,
+.pagination-next-prev ul li a {
+	padding: 10px 0!important;;
+	border-bottom: none!important;;
+	display: inline-block!important;;
+	color: #333!important;;
+	background-color: transparent!important;;
+	font-weight: 700!important;;
+	margin: 0!important;;
+	line-height: 22px!important;;
+	-webkit-transition: all 200ms ease-in-out!important;;
+	-moz-transition: all 200ms ease-in-out!important;;
+	-o-transition: all 200ms ease-in-out!important;;
+	-ms-transition: all 200ms ease-in-out!important;;
+	transition: all 200ms ease-in-out!important;;
+	font-size: 14px!important;;
+	float: left
+}
+
+.pagination ul li a {
+	border-radius: 4px!important;;
+	width: 44px!important;;
+	height: 44px!important;;
+	padding: 0!important;;
+	line-height: 44px!important;
+}
+
+.pagination ul li a i {
+	line-height: 44px!important;
+	font-size: 24px!important;
+}
+
+.pagination ul li.blank {
+	color: #a0a0a0!important;
+	padding: 0 6px!important;
+}
+
+.section.gray .pagination .pagination-arrow a:hover,
+.pagination ul li a.current-page,
+.pagination ul li a:hover {
+	background-color: #333!important;
+	color: #fff!important;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, .2)!important;
+}
+
+.pagination ul li a.current-page {
+	background-color: #66676b!important;
+	color: #fff!important;
+	box-shadow: 0 2px 8px rgba(102, 103, 107, .25)!important;
+}
+
+.pagination .pagination-arrow a {
+	background-color: #f0f0f0!important;
+}
+
+.section.gray .pagination .pagination-arrow a {
+	background-color: #eaeaea!important;
+}
+
+.filterbutton{
+  background: yellow;
+    margin-left: 12%;
+    width: 81px;
+    font-size: 20px;
+    font-style: unset;
+    color: #5fb9f5;
+}
+

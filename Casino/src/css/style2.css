@@ -1,0 +1,6040 @@
+/* @media (min-width: 1500px) and (max-width: 1600px){
+    .margin-left11 {
+        width: 652px;
+        margin-left: 57px;
+        margin-top: -25px;
+    }
+    .GIF_margin_top {
+        margin-top: -75px;
+        width: 60%;
+        margin-left: 19%;
+        height: 397px;
+        position: relative;
+    }
+    .Repeat_Bet_Margin_Top {
+        margin-top: 128px;
+    }
+    .centered14 {
+        width: 259px;
+        position: relative;
+        transform: translate(25%, -136%);
+    }
+    
+    
+    .centered13 {
+        position: relative;
+        transform: translate(-400%, -33%);
+        width: 117px;
+    }
+    .ok_cancel {
+        margin-left: 0px;
+        margin-top: -321px;
+    }
+    .margin_top_price{
+        margin-top: -59px;
+    }
+    .Repeat_Bet_Button {
+        width: 355px;
+    }
+    .Repeat_Bet_Margin_Top {
+        margin-top: 80px;
+        justify-content: center;
+        display: flex;
+    }
+    .centered3 {
+        position: absolute;
+        top: 85%;
+        left: 41%;
+        transform: translate(-50%, -50%);
+        background: transparent;
+    }
+    .centered4 {
+        position: absolute;
+        top: 85%;
+        left: 60%;
+        transform: translate(-50%, -50%);
+        background: transparent;
+    }
+    .button4, .button3 {
+        border: none;
+        color: transparent;
+        padding: 14px 14px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 3px 0px;
+        border-radius: 20px;
+    }
+    .centered53 {
+        position: absolute;
+        top: 64%;
+        left: 64%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .centered52 {
+        position: absolute;
+        top: 64%;
+        left: 34%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .centered51 {
+        position: absolute;
+        top: 79%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .centered7 {
+        position: absolute;
+        top: 71%;
+        left: 26%!important;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: #a63535;
+        background: white;
+        font-weight: bold;
+        padding: 2px 10px;
+        border-radius: 11px;
+    }
+    .centered9 {
+        position: absolute;
+        top: 71%;
+        left: 76%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: #a63535;
+        background: white;
+        font-weight: bold;
+        padding: 2px 10px;
+        border-radius: 11px;
+    }
+    @media (min-width: 1500px) and (max-width: 1579px){
+        .margin-left11 {
+            width: 652px;
+            margin-left: 49px;
+            margin-top: -25px;
+        }
+        .centered14 {
+            width: 259px;
+            position: relative;
+            transform: translate(23%, -135%);
+        }
+    }
+    
+    @media (min-width: 1500px) and (max-width: 1570px){
+      
+        .margin-left11 {
+            width: 652px;
+            margin-left: 46px;
+            margin-top: -25px;
+        }
+        .Repeat_Bet_Button {
+            width: 332px;
+        }
+        .centered13 {
+            position: relative;
+            transform: translate(-389%, -31%);
+            width: 117px;
+        }
+    }
+  
+    @media (min-width: 1500px) and (max-width: 1548px){
+        
+       
+        .centered14 {
+            width: 259px;
+            position: relative;
+            transform: translate(21%, -136%);
+        }
+        
+        
+        .centered13 {
+            position: relative;
+            transform: translate(-382%, -33%);
+            width: 117px;
+        }
+        .side {
+            flex: 49% 1;
+            background-color: transparent;
+            padding: 20px;
+        }
+    }
+    @media (min-width: 1500px) and (max-width: 1535px){
+        .margin-left11 {
+            width: 652px;
+            margin-left: 36px;
+            margin-top: -25px;
+        }
+        .centered13 {
+            position: relative;
+            transform: translate(-375%, -33%);
+            width: 117px;
+        }
+    }
+        
+    
+    
+} */
+/* .text {
+    text-transform: uppercase;
+    background: -webkit-gradient(linear, left top, right top, from(#30CFD0), to(#330867));
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+} */
+@font-face {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    src: url('/fonts/gillsans.ttf');
+  } 
+
+.casino_BackGround_Image{
+    /* background: url(/images/background_casino1.png) no-repeat 50% fixed; */
+    background: #070f29;
+   
+}
+/* body{
+    background: #060e29;
+} */
+.win_number_1{
+    background: #f63226;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 19%;
+    top: 68%;
+    transform: translate(-82%, -46%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 27%;
+    top: 68%;
+    transform: translate(-80%, -46%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 36%;
+    top: 68%;
+    transform: translate(-92%, -46%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 44%;
+    top: 68%;
+    transform: translate(-90%, -46%);
+}.win_number_5{
+    background: #8640df;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 51%;
+    top: 68%;
+    transform: translate(-72%, -46%);
+}.win_number_6{
+    background: #e98810;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 59%;
+    top: 68%;
+    transform: translate(-70%, -46%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 67%;
+    top: 68%;
+    transform: translate(-67%, -46%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 3px 0px;
+    width: 35px;    
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 75%;
+    top: 68%;
+    transform: translate(-66%, -46%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 3px 0px;
+    width: 35px;   
+     border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 84%;
+    top: 68%;
+    transform: translate(-77%, -46%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 3px 0px;
+    width: 35px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 91%;
+    top: 68%;
+    transform: translate(-64%, -46%);
+}
+.last_10_data{
+    position: absolute;
+    left: 54%;
+    top: 87%;
+    transform: translate(-50%, -50%);
+}
+.homeCard1{
+    background-color: #000;
+    width:1280px;
+    height:800px;
+    position: absolute;
+    left: 50%;
+    top: 487px;;
+    transform: translate(-50%, -50%);
+    border-style: solid;
+    border-color: coral;
+  
+}
+ .homeFlex{
+    display: flex;
+    align-items: flex-start;
+} 
+
+.homeLeft{
+    width: 437px;
+    margin-top: 58px;
+    margin-left: 47px;
+    margin-right: -34px;
+    height: 280px;
+}
+.homeCircular{
+    width: 378px;
+    margin-top: -31px!important;
+}
+.homeRight{
+    width: 437px;
+    margin-top: 58px;
+    margin-left: -34px;
+    height: 280px;
+}
+.chip_number_5a{
+    position: absolute;
+    left: 70%;
+    top: 41%;
+    transform: translate(-62%, -30%);
+}
+.image_center_win {
+    position: absolute;
+    left: 50%;
+    top: 31%;
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    font-weight: 900;
+    color: #4f13c7;
+}
+.chip_number_5b{
+    padding: 4px 17px;
+    border-radius: 49%;
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent; 
+    /* background: transparent;*/
+}
+.chip_number_5New{
+    padding: 0px;
+    background: transparent;
+    border: transparent;
+}
+.width_coin{
+    width: 62px;
+}        
+
+.chip_number_10a{
+    position: absolute;
+    left: 75%;
+    top: 34%;
+    transform: translate(-72%, -9%);
+}
+.chip_number_10b {
+    padding: 4px 12px;
+    border-radius: 49%;
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent;
+    /* background: transparent;*/
+}
+.chip_number_50a{
+    position: absolute;
+    left: 80%;
+    top: 41%;
+    transform: translate(-76%, -30%);
+}
+.chip_number_50b {
+    padding: 4px 12px;
+    border-radius: 49%;
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent;
+    /* background: transparent;*/
+}
+.chip_number_100a{
+    position: absolute;
+    left: 86%;
+    top: 34%;
+    transform: translate(-103%, -9%);
+}
+.chip_number_100b {
+    padding: 4px 4px;
+    border-radius: 49%;
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent;
+    /* background: transparent;*/
+}
+.chip_number_500a{
+    position: absolute;
+    left: 91%;
+    top: 41%;
+    transform: translate(-109%, -30%);
+}
+.chip_number_500b {
+    padding: 4px 4px;
+    border-radius: 49%;
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent;
+    /* background: transparent;*/
+}
+.chip_number_1000a{
+    position: absolute;
+    left: 96%;
+    top: 34%;
+    transform: translate(-123%, -9%);
+}
+.chip_number_1000b {
+    padding: 12px 7px;
+    border-radius: 49%;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    color: transparent;
+    /* background: transparent;*/
+}
+.image_center_win{
+    position: absolute;
+    left: 50%;
+    top: 31%;
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    font-weight: 900;
+    color: #4f13c7;
+}
+.homeCentered52 {
+    position: absolute;
+    top: 53%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+}
+.homeCentered51 {
+    position: absolute;
+    top: 37%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+}
+.home-input-card1 {
+    width: 190px;
+    border-radius: 24px;
+    margin-top: -28px;
+    background: #340782;
+    padding-left: 10px;
+    margin-left: -3px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+    height: 40px;
+    border: 3px solid #6c3cc8;
+}
+.container1 {
+     position: relative;
+     text-align: center;
+     color: white;
+  }
+  .Price_Chart_main1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    width: 1059px;
+    margin-top: 47px;
+    margin-left: 105px;
+}
+.Button_1_image{
+    z-index: 1111;
+}
+.homeCentered53{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 19px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+}
+.home-input-card2{
+    width: 76px;
+    border-radius: 0px;
+    margin-top: 0px;
+    background: radial-gradient(#3b119d,#1b0756);
+    padding-left: 0px;
+    margin-left: 0px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+    height: 37px;
+    text-align: center;
+}
+.homeCentered54{
+    font-size: 19px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    text-align: center;
+}
+.home-input-card3{
+    width: 330px;
+    border-radius: 24px;
+    margin-top: 1px;
+    background: #340782;
+    padding-left: 10px;
+    margin-left: 5px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+    height: 39px;
+    border: 3px solid #5fb9f5;
+}
+.card4a{
+    width: 95px;
+    border-radius: 10px;
+    /* background-image: linear-gradient(#170983, #7c0ba1); */
+    padding: 5px;
+    border: #fff;
+}
+.button4a{
+ padding: 0px;
+ font-weight: 500;
+ font-size: 73px;
+ height: 80px;
+ font-family: 'micronica2010', serif;
+ color: #fff;
+ border: 2px solid #8fa868;
+ background: transparent!important;
+}
+.input4a{
+    width: 85px;
+    margin-bottom: 9px;
+    height: 40px;
+    text-align: center;
+    background:linear-gradient(#170983, #7c0ba1);
+    color: #fff;
+    font-family: 'micronica2010', serif;
+    font-size: 15px;
+    border: 1px solid #8fa868;
+    border-radius: 5px;
+}
+.center4a{
+    position: absolute;
+    left: 50%;
+    top: 71%;
+    transform: translate(-50%, -50%);
+}
+.homeButtonBet{
+    background-image: linear-gradient(#7fd01e, #32750c);
+    border: none;
+    color: white;
+    padding: 3px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 3px solid #a9e419;
+    border-radius: 24px;
+  }
+  .homeButtonRebet{
+    background-image: linear-gradient(#1dc6d0, #07497f);
+    border: none;
+    color: white;
+    padding: 3px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 3px solid #5effed;
+    border-radius: 24px;
+
+  }
+  .homeButtonTake{
+    background-image: linear-gradient(#1dc6d0, #07497f);
+    border: none;
+    color: white;
+    padding: 3px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 3px solid #5fb9f5;
+    border-radius: 24px;
+
+  }
+
+  .homeButtonQuit{
+    background-image: linear-gradient(#7fd01e, #32750c);
+    border: none;
+    color: white;
+    padding: 3px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 3px solid #a9e419;
+    border-radius: 24px;
+
+  }
+  .homeFlex1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 1276px;
+    margin-left: -2px;
+    margin-top: 76px;
+    padding-top: 36px
+} 
+.home-input-card4 {
+    width: 76px;
+    border-radius: 0px;
+    margin-top: 0px;
+    background: radial-gradient(#226808,#13390f);
+    padding-left: 0px;
+    margin-left: 0px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+    height: 36px;
+}
+.home-input-card5 {
+    width: 76px;
+    border-radius: 0px;
+    margin-top: 0px;
+    background: radial-gradient(#d44408,#7a290e);
+    padding-left: 0px;
+    margin-left: 0px;
+    border: 0px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+    color: #fff;
+    height: 36px;
+}
+.home-background-image{
+    background-image: url("/images/bottom.png");
+    background-size: cover;
+}
+
+.panel-heading{
+    height: 6vh;
+    /* background-image: linear-gradient(#8c32a6, #310f7ffa); */
+}
+.casinoTiming {
+    position: absolute;
+    left: 96%;
+    top: 19%;
+    transform: translate(-147%, -6%);
+}
+
+.casinoTimingWidth {
+    width: 169px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 5px;
+    height: 61px;
+}
+.casinoTimingFont{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: digital;
+}
+.Balance{
+    position: absolute;
+    left: 51%;
+    top: 26%;
+    transform: translate(-132%, 6%);
+}
+.BalanceFont{
+    /* color: #fff; */
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: -webkit-gradient(linear, left top, right top, from(#30CFD0), to(#330867));
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WiningAmount{
+    position: absolute;
+    left: 51%;
+    top: 41%;
+    transform: translate(-133%, -8%);
+    line-height: 1;
+
+}
+.WinnningFont{
+    /* color: #fff; */
+    font-size: 20px;
+    font-weight: bold;
+    /* line-height: 1; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: -webkit-gradient(linear, left top, right top, from(#30CFD0), to(#330867));
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+                                                                /* (max-width: 1600px) and (min-width: 1500px) */
+
+@media (max-width: 1600px) and (min-width: 1500px){
+    .homeCard1 {
+        background-color: #000;
+        width: 1280px;
+        height: 746px;
+        position: absolute;
+        left: 50%;
+        top: 460px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 329px!important;
+        margin-top: -31px!important;
+    }
+    .homeRight {
+        width: 426px;
+        margin-top: 45px;
+        margin-left: -34px;
+        height: 246px;
+    }
+    .homeLeft {
+        width: 426px;
+        margin-top: 45px;
+        margin-left: 77px;
+        margin-right: -34px;
+        height: 246px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 1276px;
+        margin-left: -2px;
+        margin-top: 77px;
+        padding-top: 36px;
+    }
+    .homeCentered52 {
+        position: absolute;
+        top: 53%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 37%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 185px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 57px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 29%;
+        transform: translate(-61%, -50%);
+        font-size: 72px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 68%;
+        top: 40%;
+        transform: translate(-74%, -58%);
+    }
+    .chip_number_5b{
+        padding: 2px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 73%;
+        top: 34%;
+        transform: translate(-85%, -47%);
+    }
+    .chip_number_10b {
+        padding: 4px 12px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 78%;
+        top: 40%;
+        transform: translate(-94%, -58%);
+    }
+    .chip_number_50b {
+        padding: 4px 12px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 84%;
+    top: 34%;
+    transform: translate(-128%, -47%);
+    }
+    .chip_number_100b {
+        padding: 4px 4px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 88%;
+        top: 40%;
+        transform: translate(-115%, -58%);
+    }
+    .chip_number_500b {
+        padding: 4px 4px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 93%;
+        top: 34%;
+        transform: translate(-127%, -47%);
+    }
+    .chip_number_1000b {
+        padding: 12px 7px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .win_number_1{
+        background: #f63226;
+        padding: 1px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 24%;
+        top: 68%;
+        transform: translate(-79%, -49%);
+    }
+    .win_number_2{
+        background: #adda14;
+        padding: 1px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 31%;
+        top: 68%;
+        transform: translate(-70%, -49%);
+    }
+    .win_number_3{
+        background: #ee1de9;
+        padding: 1px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 39%;
+        top: 68%;
+        transform: translate(-76%, -49%);
+    }.win_number_4{
+        background: #09cad9;
+        padding: 1px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 46%;
+        top: 68%;
+        transform: translate(-68%, -49%);
+    }.win_number_5{
+        background: #8640df;
+        padding: 1px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 52%;
+        top: 68%;
+        transform: translate(-44%, -49%);
+    }.win_number_6{
+        background: #e98810;
+        padding: 1px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 59%;
+        top: 68%;
+        transform: translate(-36%, -49%);
+    }.win_number_7{
+        background: #d8a91c;
+        padding: 1px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 67%;
+        top: 68%;
+        transform: translate(-42%, -49%);
+    }.win_number_8{
+        background: #0ada61;
+        padding: 1px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 75%;
+        top: 68%;
+        transform: translate(-51%, -49%);
+    }
+    .win_number_9{
+        background: #7e7c08;
+        padding: 1px 0px;
+        width: 34px;   
+         border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 84%;
+        top: 68%;
+        transform: translate(-71%, -49%);
+    }
+    .win_number_0{
+        background: #287cee;
+        padding: 1px 0px;
+        width: 34px; 
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 91%;
+        top: 68%;
+        transform: translate(-64%, -49%);
+    }
+    .last_10_data{
+        position: absolute;
+        left: 56%;
+        top: 87%;
+        transform: translate(-50%, -50%);
+    }
+    .casinoTiming {
+        position: absolute;
+        left: 92%;
+        top: 18%;
+        transform: translate(-142%, -11%);
+    }
+    
+    .casinoTimingWidth {
+        width: 169px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 5px;
+        height: 61px;
+    }
+    .casinoTimingFont{
+        font-size: 22px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 54%;
+        top: 24%;
+        transform: translate(-132%, 6%);
+    }
+    .BalanceFont{
+        /* color: #fff; */
+        font-size: 21px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 54%;
+        top: 40%;
+        transform: translate(-134%, -14%);
+        line-height: 1;
+
+    }
+    .WinnningFont{
+        /* color: #fff; */
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+                                                                        /* (min-width: 1399px) and (max-width: 1499px) */
+
+@media (min-width: 1399px) and (max-width: 1499px){
+    .homeCard1 {
+        background-color: #000;
+        width: 1280px;
+        height: 706px;
+        position: absolute;
+        left: 50%;
+        top: 478px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 306px!important;
+        margin-top: -31px!important;
+    }
+    
+    
+    .homeRight {
+        width: 426px;
+        margin-top: 35px;
+        margin-left: -34px;
+        height: 237px;
+    }
+    .homeLeft {
+        width: 426px;
+        margin-top: 35px;
+        margin-left: 77px;
+        margin-right: -34px;
+        height: 237px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 1276px;
+        margin-left: -2px;
+        margin-top: 71px;
+        padding-top: 36px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 1059px;
+        margin-top: 38px;
+        margin-left: 105px;
+    }
+    .homeCentered52 {
+        position: absolute;
+        top: 52%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 36%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 185px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 56px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 49%;
+        top: 29%;
+        transform: translate(-57%, -50%);
+        font-size: 67px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 67%;
+        top: 40%;
+        transform: translate(-93%, -60%);
+    }
+    .chip_number_5b{
+        padding: 2px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 72%;
+        top: 33%;
+        transform: translate(-105%, -38%);
+    }
+    .chip_number_10b {
+        padding: 3px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 77%;
+        top: 40%;
+        transform: translate(-113%, -60%);
+    }
+    .chip_number_50b {
+        padding: 3px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 83%;
+    top: 33%;
+    transform: translate(-150%, -38%);
+    }
+    .chip_number_100b {
+        padding: 3px 3px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 86%;
+        top: 40%;
+        transform: translate(-114%, -60%);
+    }
+    .chip_number_500b {
+        padding: 3px 3px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 91%;
+        top: 33%;
+        transform: translate(-121%, -38%);
+    }
+    .chip_number_1000b {
+        padding: 11px 7px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .win_number_1{
+        background: #f63226;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 24%;
+        top: 68%;
+        transform: translate(-79%, -57%);
+    }
+    .win_number_2{
+        background: #adda14;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 31%;
+        top: 68%;
+        transform: translate(-70%, -57%);
+    }
+    .win_number_3{
+        background: #ee1de9;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 39%;
+        top: 68%;
+        transform: translate(-76%, -57%);
+    }.win_number_4{
+        background: #09cad9;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 46%;
+        top: 68%;
+        transform: translate(-68%, -57%);
+    }.win_number_5{
+        background: #8640df;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 52%;
+        top: 68%;
+        transform: translate(-44%, -57%);
+    }.win_number_6{
+        background: #e98810;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 59%;
+        top: 68%;
+        transform: translate(-36%, -57%);
+    }.win_number_7{
+        background: #d8a91c;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 67%;
+        top: 68%;
+        transform: translate(-42%, -57%);
+    }.win_number_8{
+        background: #0ada61;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 75%;
+        top: 68%;
+        transform: translate(-48%, -57%);
+    }
+    .win_number_9{
+        background: #7e7c08;
+        padding: 0px 0px;
+        width: 34px;   
+         border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 84%;
+        top: 68%;
+        transform: translate(-67%, -57%);
+    }
+    .win_number_0{
+        background: #287cee;
+        padding: 0px 0px;
+        width: 34px; 
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 26px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 91%;
+        top: 68%;
+        transform: translate(-60%, -57%);
+    }
+    .last_10_data{
+        position: absolute;
+        left: 56%;
+        top: 87%;
+        transform: translate(-50%, -50%);
+    }
+    .casinoTiming {
+        position: absolute;
+        left: 91%;
+        top: 17%;
+        transform: translate(-142%, -9%);
+    
+    }
+    
+    .casinoTimingWidth {
+        width: 169px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 5px;
+        height: 61px;
+    }
+    .casinoTimingFont{
+        font-size: 22px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 54%;
+        top: 22%;
+        transform: translate(-132%, 6%);
+    }
+    .BalanceFont{
+        color: #fff;
+        font-size: 21px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 54%;
+        top: 36%;
+        transform: translate(-133%, -1%);
+        line-height: 1;
+    }
+    .WinnningFont{
+        color: #fff;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+                                                            /* (min-width: 1299px) and (max-width: 1398px) */
+
+@media (min-width: 1299px) and (max-width: 1398px){
+    .homeCard1 {
+        background-color: #000;
+        width: 1280px;
+        height: 634px;
+        position: absolute;
+        left: 50%;
+        top: 400px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 267px!important;
+        margin-top: -31px!important;
+    }
+    
+    
+    .homeRight {
+        width: 426px;
+        margin-top: 22px;
+        margin-left: -34px;
+        height: 218px;
+    }
+    .homeLeft {
+        width: 426px;
+        margin-top: 22px;
+        margin-left: 109px;
+        margin-right: -34px;
+        height: 218px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 1276px;
+        margin-left: -2px;
+        margin-top: 60px;
+        padding-top: 36px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 901px;
+        margin-top: 38px;
+        margin-left: 188px;
+    }
+    .homeCentered52 {
+        position: absolute;
+        top: 51%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 34%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 185px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 78px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 68px;
+        margin-bottom: 9px;
+        height: 35px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 15px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 57px;
+        height: 67px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 55px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 29%;
+        transform: translate(-62%, -53%);
+        font-size: 57px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 67%;
+        top: 40%;
+        transform: translate(-107%, -59%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 72%;
+        top: 34%;
+        transform: translate(-117%, -45%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 77%;
+        top: 40%;
+        transform: translate(-126%, -59%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 83%;
+    top: 34%;
+    transform: translate(-157%, -45%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 85%;
+        top: 40%;
+        transform: translate(-99%, -59%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 91%;
+        top: 34%;
+        transform: translate(-131%, -45%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .win_number_1{
+        background: #f63226;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 29%;
+        top: 67%;
+        transform: translate(-79%, -61%);
+    }
+    .win_number_2{
+        background: #adda14;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 36%;
+        top: 67%;
+        transform: translate(-77%, -61%);
+    }
+    .win_number_3{
+        background: #ee1de9;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 43%;
+        top: 67%;
+        transform: translate(-73%, -61%);
+    }.win_number_4{
+        background: #09cad9;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 46%;
+        top: 67%;
+        transform: translate(-13%, -61%);
+    }.win_number_5{
+        background: #8640df;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 54%;
+        top: 67%;
+        transform: translate(-27%, -61%);
+    }.win_number_6{
+        background: #e98810;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 61%;
+        top: 67%;
+        transform: translate(-24%, -61%);
+    }.win_number_7{
+        background: #d8a91c;
+        padding: 0px 0px;
+        width: 34px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 67%;
+        top: 67%;
+        transform: translate(-7%, -61%);
+    }.win_number_8{
+        background: #0ada61;
+        padding: 0px 0px;
+        width: 34px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 75%;
+        top: 67%;
+        transform: translate(-21%, -61%);
+    }
+    .win_number_9{
+        background: #7e7c08;
+        padding: 0px 0px;
+        width: 34px;   
+         border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 84%;
+        top: 67%;
+        transform: translate(-49%, -61%);
+    }
+    .win_number_0{
+        background: #287cee;
+        padding: 0px 0px;
+        width: 34px; 
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 23px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 91%;
+        top: 67%;
+        transform: translate(-47%, -61%);
+    }
+    .last_10_data{
+        position: absolute;
+        left: 60%;
+        top: 86%;
+        transform: translate(-50%, -50%);
+    }
+    .last_10_data_width{
+        height: 24px;
+    }
+    .casinoTiming {
+        position: absolute;
+        left: 91%;
+        top: 16%;
+        transform: translate(-142%, -6%);
+    
+    }
+    
+    .casinoTimingWidth {
+        width: 169px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 5px;
+        height: 61px;
+    }
+    .casinoTimingFont{
+        font-size: 22px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 56%;
+        top: 19%;
+        transform: translate(-132%, 6%);
+    }
+    .BalanceFont{
+        color: #fff;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 56%;
+        top: 34%;
+        transform: translate(-134%, -6%);
+        line-height: 0.9;
+    }
+    .WinnningFont{
+        color: #fff;
+        font-size: 19px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+                                                                        /* (min-width: 1199px) and (max-width: 1298px) */
+
+@media (min-width: 1199px) and (max-width: 1298px){
+    .homeCard1 {
+        background-color: #000;
+        width: 1100px;
+        height: 546px;
+        position: absolute;
+        left: 50%;
+        top: 55%;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 242px!important;
+        margin-top: -31px!important;
+    }
+    
+    
+    .homeRight {
+        width: 389px;
+        margin-top: 19px;
+        margin-left: -34px;
+        height: 196px;
+    }
+    .homeLeft {
+        width: 389px;
+        margin-top: 19px;
+        margin-left: 69px;
+        margin-right: -34px;
+        height: 196px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 1096px;
+        margin-left: -2px;
+        margin-top: 20px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 901px;
+        margin-top: 20px;
+        margin-left: 99px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .homeCentered52 {
+        position: absolute;
+        top: 53%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 35%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 155px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 79px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 70px;
+        margin-bottom: 9px;
+        height: 34px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 15px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+        
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 62px;
+        height: 64px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 71%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 50px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 31%;
+        transform: translate(-62%, -53%);
+        font-size: 50px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 67%;
+        top: 40%;
+        transform: translate(-100%, -24%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 72%;
+        top: 34%;
+        transform: translate(-105%, -18%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 78%;
+        top: 40%;
+        transform: translate(-126%, -24%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 84%;
+    top: 34%;
+    transform: translate(-148%, -18%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 87%;
+        top: 40%;
+        transform: translate(-99%, -24%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 93%;
+        top: 34%;
+        transform: translate(-116%, -18%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .win_number_1{
+        background: #f63226;
+        padding: 0px 0px;
+        width: 31px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 25%;
+        top: 67%;
+        transform: translate(-93%, -61%);
+    }
+    .win_number_2{
+        background: #adda14;
+        padding: 0px 0px;
+        width: 31px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 33%;
+        top: 67%;
+        transform: translate(-101%, -61%);
+    }
+    .win_number_3{
+        background: #ee1de9;
+        padding: 0px 0px;
+        width: 31px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 40%;
+        top: 67%;
+        transform: translate(-92%, -61%);
+    }.win_number_4{
+        background: #09cad9;
+        padding: 0px 0px;
+        width: 31px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 43%;
+        top: 67%;
+        transform: translate(-28%, -61%);
+    }.win_number_5{
+        background: #8640df;
+        padding: 0px 0px;
+        width: 31px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 52%;
+        top: 67%;
+        transform: translate(-47%, -61%);
+    }.win_number_6{
+        background: #e98810;
+        padding: 0px 0px;
+        width: 31px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 59%;
+        top: 67%;
+        transform: translate(-37%, -61%);
+    }.win_number_7{
+        background: #d8a91c;
+        padding: 0px 0px;
+        width: 31px;     
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 66%;
+        top: 67%;
+        transform: translate(-27%, -61%);
+    }.win_number_8{
+        background: #0ada61;
+        padding: 0px 0px;
+        width: 31px;    
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 75%;
+        top: 67%;
+        transform: translate(-43%, -61%);
+    }
+    .win_number_9{
+        background: #7e7c08;
+        padding: 0px 0px;
+        width: 31px;   
+         border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 84%;
+        top: 67%;
+        transform: translate(-60%, -61%);
+    }
+    .win_number_0{
+        background: #287cee;
+        padding: 0px 0px;
+        width: 31px; 
+        border-radius: 8px;
+        font-weight: bold;
+        font-size: 21px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 91%;
+        top: 67%;
+        transform: translate(-51%, -61%);
+    }
+    .last_10_data{
+        position: absolute;
+        left: 60%;
+        top: 86%;
+        transform: translate(-50%, -50%);
+    }
+    .last_10_data_width{
+        height: 24px;
+    }
+    .casinoTiming {
+        position: absolute;
+       left: 92%;
+       top: 16%;
+       transform: translate(-132%, 1%);
+    }
+    
+    .casinoTimingWidth {
+        width: 169px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 5px;
+        height: 61px;
+    }
+    .casinoTimingFont{
+        font-size: 22px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 54%;
+        top: 19%;
+        transform: translate(-132%, 6%);
+    }
+    .BalanceFont{
+        color: #fff;
+        font-size: 18px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 53%;
+        top: 34%;
+        transform: translate(-130%, 0%);
+        line-height: 1;
+    }
+    .WinnningFont{
+        color: #fff;
+        font-size: 17px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+                                                                        /* (min-width: 992px) and (max-width: 1198px) */
+
+@media (min-width: 992px) and (max-width: 1198px){
+    .homeCard1 {
+        background-color: #000;
+        width: 900px;
+        height: 546px;
+        position: absolute;
+        left: 50%;
+        top: 357px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 219px!important;
+        margin-top: -31px!important;
+    }
+    
+    
+    .homeRight {
+        width: 338px;
+        margin-top: 12px;
+        margin-left: -34px;
+        height: 183px;
+    }
+    .homeLeft {
+        width: 338px;
+        margin-top: 12px;
+        margin-left: 35px;
+        margin-right: -34px;
+        height: 183px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 896px;
+        margin-left: -2px;
+        margin-top: 28px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 869px;
+        margin-top: 47px;
+        margin-left: 15px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .homeCentered52 {
+        position: absolute;
+        top: 52%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 33%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 19px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 155px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 74px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 64px;
+        margin-bottom: 9px;
+        height: 32px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 15px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 50px;
+        height: 56px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 73%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 48px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 28%;
+        transform: translate(-54%, -53%);
+        font-size: 50px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 69%;
+        top: 37%;
+        transform: translate(-100%, -34%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 74%;
+        top: 32%;
+        transform: translate(-95%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 81%;
+        top: 37%;
+        transform: translate(-122%, -34%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 88%;
+    top: 32%;
+    transform: translate(-148%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 91%;
+        top: 37%;
+        transform: translate(-108%, -34%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 96%;
+        top: 32%;
+        transform: translate(-105%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+    }
+    .win_number_1{
+        background: #f63226;
+        padding: 0px 0px;
+        width: 26px;    
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 21%;
+        top: 67%;
+        transform: translate(-103%, -69%);
+    }
+    .win_number_2{
+        background: #adda14;
+        padding: 0px 0px;
+        width: 26px;     
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 29%;
+        top: 67%;
+        transform: translate(-101%, -69%);
+    }
+    .win_number_3{
+        background: #ee1de9;
+        padding: 0px 0px;
+        width: 26px;    
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 37%;
+        top: 67%;
+        transform: translate(-94%, -69%);
+    }.win_number_4{
+        background: #09cad9;
+        padding: 0px 0px;
+        width: 26px;     
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 40%;
+        top: 67%;
+        transform: translate(-28%, -69%);
+    }.win_number_5{
+        background: #8640df;
+        padding: 0px 0px;
+        width: 26px;     
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 50%;
+        top: 67%;
+        transform: translate(-49%, -69%);
+    }.win_number_6{
+        background: #e98810;
+        padding: 0px 0px;
+        width: 26px;    
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 58%;
+        top: 67%;
+        transform: translate(-43%, -69%);
+    }.win_number_7{
+        background: #d8a91c;
+        padding: 0px 0px;
+        width: 26px;     
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 65%;
+        top: 67%;
+        transform: translate(-25%, -69%);
+    }.win_number_8{
+        background: #0ada61;
+        padding: 0px 0px;
+        width: 26px;    
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 75%;
+        top: 67%;
+        transform: translate(-50%, -69%);
+    }
+    .win_number_9{
+        background: #7e7c08;
+        padding: 0px 0px;
+        width: 26px;   
+         border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 84%;
+        top: 67%;
+        transform: translate(-64%, -69%);
+    }
+    .win_number_0{
+        background: #287cee;
+        padding: 0px 0px;
+        width: 26px; 
+        border-radius: 4px;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'micronica2010', serif;
+        position: absolute;
+        left: 91%;
+        top: 67%;
+        transform: translate(-46%, -69%);
+    }
+    .last_10_data{
+        position: absolute;
+        left: 57%;
+        top: 86%;
+        transform: translate(-50%, -50%);
+    }
+    .last_10_data_width{
+        height: 24px;
+    }
+    .casinoTiming {
+        position: absolute;
+        left: 94%;
+        top: 15%;
+        transform: translate(-129%, 2%);
+    }
+    
+    .casinoTimingWidth {
+        width: 142px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 2px;
+        height: 50px;
+    }
+    .casinoTimingFont{
+        font-size: 20px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 53%;
+        top: 14%;
+        transform: translate(-132%, 6%);
+    }
+    .BalanceFont{
+        color: #fff;
+        font-size: 17px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 52%;
+        top: 32%;
+        transform: translate(-130%, -2%);
+        line-height: 1;
+    }
+    .WinnningFont{
+        color: #fff;
+        font-size: 16px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+   
+                                                                        /* (max-width:1099px) */
+
+    @media(max-width:1099px){
+       
+        .home-input-card2 {
+            width: 65px;
+            border-bottom-right-radius: 3px;
+            border-bottom-left-radius: 3px;
+            margin-top: 0px;
+            background: radial-gradient(#3b119d,#1b0756);
+            padding-left: 5px;
+            margin-left: 0px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        .home-input-card4 {
+            width: 66px;
+            border-bottom-right-radius: 3px;
+            border-bottom-left-radius: 3px;
+            margin-top: 0px;
+            background: radial-gradient(#226808,#13390f);
+            padding-left: 5px;
+            margin-left: 0px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        .home-input-card5 {
+            width: 66px;
+            border-bottom-right-radius: 3px;
+            border-bottom-left-radius: 3px;
+            margin-top: 0px;
+            background: radial-gradient(#d44408,#7a290e);
+            padding-left: 5px;
+            margin-left: 0px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        .Price_Chart_main1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+            width: 777px;
+            margin-top: 47px;
+            margin-left: 59px;
+        }
+        .homeFlex1 {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-around;
+            width: 896px;
+            margin-left: -2px;
+            margin-top: 29px;
+            padding-top: 38px;
+        }
+        .homeCentered52 {
+            position: absolute;
+            top: 52%;
+            left: 72%;
+            transform: translate(-50%, -50%);
+            font-size: 19px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+        }
+        .homeCentered51 {
+            position: absolute;
+            top: 33%;
+            left: 72%;
+            transform: translate(-50%, -50%);
+            font-size: 19px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+        }
+        .home-input-card1 {
+            width: 155px;
+            border-radius: 24px;
+            margin-top: -28px;
+            background: #340782;
+            padding-left: 10px;
+            margin-left: 5px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 34px;
+            border: 3px solid #6c3cc8;
+        }
+        .card4a {
+            width: 66px;
+            border-radius: 10px;
+            /* background-image: linear-gradient(#170983, #7c0ba1); */
+            padding: 5px;
+            border: #fff;
+        }
+        .input4a {
+            width: 56px;
+            margin-bottom: 9px;
+            height: 32px;
+            text-align: center;
+            color: #fff;
+            font-family: 'micronica2010', serif;
+            font-size: 15px;
+            border: 1px solid #8fa868;
+            background: linear-gradient(#170983, #7c0ba1);
+        }
+        .casinoTiming {
+            position: absolute;
+            left: 94%;
+            top: 15%;
+            transform: translate(-129%, 2%);
+        }
+        
+        .casinoTimingWidth {
+            width: 142px;
+            border-radius: 10px;
+            margin-left: 29px;
+            background: #1b0985;
+            border: 2px solid #5fb9f5;
+            padding: 2px;
+            height: 50px;
+        }
+        .casinoTimingFont{
+            font-size: 20px;
+            font-weight: bold;
+            font-family: digital;
+        }
+    }
+}
+
+                                                                            /* (max-width:991px) */
+
+@media(max-width:991px){
+
+    .homeCard1 {
+        background-color: #000;
+        width: 900px;
+        height: 504px;
+        position: absolute;
+        left: 50%;
+        top: 336px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 219px!important;
+        margin-top: -31px!important;
+    }
+    
+    
+    .homeRight {
+        width: 338px;
+        margin-top: 12px;
+        margin-left: -34px;
+        height: 183px;
+    }
+    .homeLeft {
+        width: 338px;
+        margin-top: 12px;
+        margin-left: 35px;
+        margin-right: -34px;
+        height: 183px;
+    }
+    .home-input-card1 {
+        width: 152px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 28px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 896px;
+        margin-left: -2px;
+        margin-top: -3px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    width: 699px;
+    margin-top: 32px;
+    margin-left: 101px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .home-input-card2 {
+        width: 55px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#3b119d,#1b0756);
+        padding-left: 5px;
+        margin-left: 0px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card4 {
+        width: 56px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#226808,#13390f);
+        padding-left: 5px;
+        margin-left: 0px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card5 {
+        width: 56px;
+        border-bottom-right-radius:6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#d44408,#7a290e);
+        padding-left: 5px;
+        margin-left: 0px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .Number_Button {
+        width: 57px;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 34%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 15px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .card4a {
+        width: 63px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 54px;
+        margin-bottom: 9px;
+        height: 27px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 15px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 50px;
+        height: 56px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 48px;
+    }
+    .image_center_win {
+        position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-51%, -50%);
+    font-size: 45px;
+    font-weight: 900;
+    color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 69%;
+        top: 40%;
+        transform: translate(-100%, -34%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 74%;
+        top: 34%;
+        transform: translate(-95%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 81%;
+        top: 40%;
+        transform: translate(-122%, -34%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 88%;
+    top: 34%;
+    transform: translate(-148%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 91%;
+        top: 40%;
+        transform: translate(-108%, -34%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 96%;
+        top: 34%;
+        transform: translate(-105%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+}
+.win_number_1{
+    background: #f63226;
+    padding: 0px 0px;
+    width: 26px;    
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 21%;
+    top: 67%;
+    transform: translate(-103%, -69%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 0px 0px;
+    width: 26px;     
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 29%;
+    top: 67%;
+    transform: translate(-101%, -69%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 0px 0px;
+    width: 26px;    
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 37%;
+    top: 67%;
+    transform: translate(-94%, -69%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 0px 0px;
+    width: 26px;     
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 40%;
+    top: 67%;
+    transform: translate(-28%, -69%);
+}.win_number_5{
+    background: #8640df;
+    padding: 0px 0px;
+    width: 26px;     
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 50%;
+    top: 67%;
+    transform: translate(-49%, -69%);
+}.win_number_6{
+    background: #e98810;
+    padding: 0px 0px;
+    width: 26px;    
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 58%;
+    top: 67%;
+    transform: translate(-43%, -69%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 0px 0px;
+    width: 26px;     
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 65%;
+    top: 67%;
+    transform: translate(-25%, -69%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 0px 0px;
+    width: 26px;    
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 75%;
+    top: 67%;
+    transform: translate(-50%, -69%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 0px 0px;
+    width: 26px;   
+     border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 84%;
+    top: 67%;
+    transform: translate(-64%, -69%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 0px 0px;
+    width: 26px; 
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 91%;
+    top: 67%;
+    transform: translate(-46%, -69%);
+}
+.last_10_data{
+    position: absolute;
+    left: 57%;
+    top: 86%;
+    transform: translate(-50%, -50%);
+}
+.last_10_data_width{
+    height: 24px;
+}
+.casinoTiming {
+    position: absolute;
+    left: 94%;
+    top: 16%;
+    transform: translate(-129%, 2%);
+}
+
+.casinoTimingWidth {
+    width: 142px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 2px;
+    height: 50px;
+}
+.casinoTimingFont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: digital;
+}
+.Balance{
+    position: absolute;
+    left: 53%;
+    top: 14%;
+    transform: translate(-132%, 6%);
+}
+.BalanceFont{
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WiningAmount{
+    position: absolute;
+    left: 52%;
+    top: 32%;
+    transform: translate(-131%, 3%);
+    line-height: 1;
+}
+.WinnningFont{
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+}
+
+                                                                                /* (max-width:899px) */
+
+@media(max-width:899px){
+
+    .homeCard1 {
+        background-color: #000;
+        width: 799px;
+        height: 504px;
+        position: absolute;
+        left: 50%;
+        top: 338px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 186px!important;
+        margin-top: -21px!important;
+    }
+    
+    
+    .homeRight {
+        width: 279px;
+        margin-top: 10px;
+        margin-left: -29px;
+        height: 163px;
+    }
+    .homeLeft {
+        width: 279px;
+        margin-top: 10px;
+        margin-left: 59px;
+        margin-right: -29px;
+        height: 163px;
+    }
+    /* .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    } */
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 795px;
+        margin-left: -2px;
+        margin-top: 19px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 699px;
+        margin-top: 47px;
+        margin-left: 58px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .home-input-card2 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#3b119d,#1b0756);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card4 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#226808,#13390f);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card5 {
+        width: 54px;
+        border-bottom-right-radius:6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#d44408,#7a290e);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .Number_Button {
+        width: 57px;
+    }
+    .Button_1_image {
+        padding: 0px;
+        margin: 0px;
+        border-radius: 100px;
+        background: transparent!important;
+        border: transparent;
+    }
+    .home-input-card3 {
+        width: 162px;
+        border-radius: 24px;
+        margin-top: 1px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #5fb9f5;
+    }
+    .home-input-card1 {
+        width: 134px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 12px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 28px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 63px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 54px;
+        margin-bottom: 9px;
+        height: 27px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 10px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 50px;
+        height: 56px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 41px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        transform: translate(-36%, -65%);
+        font-size: 41px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 69%;
+        top: 38%;
+        transform: translate(-100%, -34%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 74%;
+        top: 32%;
+        transform: translate(-95%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 80%;
+        top: 38%;
+        transform: translate(-122%, -34%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 86%;
+    top: 32%;
+    transform: translate(-148%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 89%;
+        top: 38%;
+        transform: translate(-108%, -34%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+    left: 94%;
+    top: 32%;
+    transform: translate(-109%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+}
+.win_number_1{
+    background: #f63226;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 28%;
+    top: 67%;
+    transform: translate(-103%, -69%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 35%;
+    top: 67%;
+    transform: translate(-91%, -69%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 43%;
+    top: 67%;
+    transform: translate(-101%, -69%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 46%;
+    top: 67%;
+    transform: translate(-34%, -69%);
+}.win_number_5{
+    background: #8640df;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 55%;
+    top: 67%;
+    transform: translate(-57%, -69%);
+}.win_number_6{
+    background: #e98810;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 63%;
+    top: 67%;
+    transform: translate(-65%, -69%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 68%;
+    top: 67%;
+    transform: translate(-28%, -69%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 77%;
+    top: 67%;
+    transform: translate(-50%, -69%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 0px 0px;
+    width: 21px;   
+     border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 86%;
+    top: 67%;
+    transform: translate(-72%, -69%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 0px 0px;
+    width: 21px; 
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 92%;
+    top: 67%;
+    transform: translate(-46%, -69%);
+}
+.last_10_data{
+    position: absolute;
+    left: 60%;
+    top: 86%;
+    transform: translate(-50%, -50%);
+}
+.last_10_data_width{
+    height: 19px;
+}
+.casinoTiming {
+    position: absolute;
+    left: 94%;
+    top: 15%;
+    transform: translate(-132%, 2%);
+}
+
+.casinoTimingWidth {
+    width: 136px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 2px;
+    height: 47px;
+}
+.casinoTimingFont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: digital;
+}
+.Balance{
+    position: absolute;
+    left: 58%;
+    top: 14%;
+    transform: translate(-132%, 6%);
+}
+.BalanceFont{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WiningAmount{
+    position: absolute;
+    left: 57%;
+    top: 30%;
+    transform: translate(-131%, 3%);
+    line-height: 0.9;
+}
+.WinnningFont{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+}
+
+                                                                            /* (max-width:799px) */
+
+@media(max-width:799px){
+
+    .homeCard1 {
+        background-color: #000;
+        width: 699px;
+        height: 504px;
+        position: absolute;
+        left: 50%;
+        top: 315px;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 186px!important;
+        margin-top: -21px!important;
+    }
+    
+    
+    .homeRight {
+        width: 279px;
+        margin-top: 10px;
+        margin-left: -29px;
+        height: 163px;
+    }
+    .homeLeft {
+        width: 279px;
+        margin-top: 10px;
+        margin-left: 4px;
+        margin-right: -29px;
+        height: 163px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 695px;
+        margin-left: -2px;
+        margin-top: 32px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 660px;
+        margin-top: 47px;
+        margin-left: 17px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .home-input-card2 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#3b119d,#1b0756);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card4 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#226808,#13390f);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card5 {
+        width: 54px;
+        border-bottom-right-radius:6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#d44408,#7a290e);
+        padding-left: 5px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .Number_Button {
+        width: 57px;
+    }
+    .Button_1_image {
+        padding: 0px;
+        margin: 0px;
+        border-radius: 100px;
+        background: transparent!important;
+        border: transparent;
+    }
+    .home-input-card3 {
+        width: 162px;
+        border-radius: 24px;
+        margin-top: 1px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #5fb9f5;
+    } .home-input-card1 {
+        width: 128px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: -11px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 28px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 60px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px;
+        border: #fff;
+    }
+    .input4a {
+        width: 51px;
+        margin-bottom: 9px;
+        height: 24px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 10px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+       font-weight: 500;
+       font-size: 42px;
+        height: 46px;
+       font-family: 'micronica2010', serif;
+      background: #480a92;
+      color: #fff;
+      border: 2px solid #8fa868;
+      background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 43px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        transform: translate(-53%, -65%);
+        font-size: 38px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 69%;
+        top: 37%;
+        transform: translate(-82%, -26%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 74%;
+        top: 32%;
+        transform: translate(-74%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 80%;
+        top: 37%;
+        transform: translate(-80%, -26%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+    left: 86%;
+    top: 32%;
+    transform: translate(-82%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 92%;
+        top: 37%;
+        transform: translate(-83%, -26%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+    left: 99%;
+    top: 32%;
+    transform: translate(-101%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+}
+.homeCentered51 {
+    position: absolute;
+    top: 34%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+}
+.homeCentered52 {
+    position: absolute;
+    top: 53%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-family: 'Bevan', serif;
+    font-weight: 100;
+}
+.win_number_1{
+    background: #f63226;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 13%;
+    top: 67%;
+    transform: translate(-103%, -69%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 22%;
+    top: 67%;
+    transform: translate(-103%, -69%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 33%;
+    top: 67%;
+    transform: translate(-123%, -69%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 37%;
+    top: 67%;
+    transform: translate(-59%, -69%);
+}.win_number_5{
+    background: #8640df;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 46%;
+    top: 67%;
+    transform: translate(-57%, -69%);
+}.win_number_6{
+    background: #e98810;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 56%;
+    top: 67%;
+    transform: translate(-65%, -69%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 0px 0px;
+    width: 21px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 62%;
+    top: 67%;
+    transform: translate(-25%, -69%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 0px 0px;
+    width: 21px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 73%;
+    top: 67%;
+    transform: translate(-50%, -69%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 0px 0px;
+    width: 21px;   
+     border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 84%;
+    top: 67%;
+    transform: translate(-72%, -69%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 0px 0px;
+    width: 21px; 
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 16px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 91%;
+    top: 67%;
+    transform: translate(-50%, -69%);
+}
+.last_10_data{
+    position: absolute;
+    left: 55%;
+    top: 86%;
+    transform: translate(-50%, -50%);
+}
+.last_10_data_width{
+    height: 19px;
+}
+.casinoTiming {
+    position: absolute;
+    left: 98%;
+    top: 15%;
+    transform: translate(-132%, 4%);
+}
+
+.casinoTimingWidth {
+    width: 122px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 2px;
+    height: 47px;
+}
+.casinoTimingFont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: digital;
+}
+.Balance{
+    position: absolute;
+    left: 51%;
+    top: 14%;
+    transform: translate(-134%, 6%);
+}
+.BalanceFont{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WiningAmount{
+    position: absolute;
+    left: 49%;
+    top: 31%;
+    transform: translate(-131%, -7%);
+    line-height: 0.9;
+}
+.WinnningFont{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+}
+
+                                                                            /* (max-width:767px) */
+
+@media(max-width:767px){
+        .homeCard1 {
+            background-color: #000;
+            width: 699px;
+            height: 504px;
+            position: absolute;
+            left: 50%;
+            top: 165px;
+            /* margin-top: 180px; */
+            transform: translate(-50%, -20%);
+            border-style: solid;
+            border-color: coral;
+        }
+        .Price_Chart_main1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+            width: 676px;
+            margin-top: 47px;
+            margin-left: 7px;
+        }
+        .home-input-card2 {
+            width: 54px;
+            border-bottom-right-radius: 6px;
+            border-bottom-left-radius: 6px;
+            margin-top: 0px;
+            background: radial-gradient(#3b119d,#1b0756);
+            padding-left: 5px;
+            margin-left: 0px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        .home-input-card5 {
+            width: 54px;
+            border-bottom-right-radius: 6px;
+            border-bottom-left-radius: 6px;
+            margin-top: 0px;
+            background: radial-gradient(#d44408,#7a290e);
+            padding-left: 5px;
+            margin-left: 1px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        .home-input-card4 {
+            width: 54px;
+            border-bottom-right-radius: 6px;
+            border-bottom-left-radius: 6px;
+            margin-top: 0px;
+            background: radial-gradient(#226808,#13390f);
+            padding-left: 5px;
+            margin-left: 1px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 37px;
+        }
+        /* .home-input-card1 {
+            width: 130px;
+            border-radius: 24px;
+            margin-top: -39px;
+            background: #340782;
+            padding-left: 6px;
+            margin-left: -10px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 27px;
+            border: 3px solid #6c3cc8;
+        } */
+        .homeCentered52 {
+            position: absolute;
+            top: 55%;
+            left: 72%;
+            transform: translate(-50%, -50%);
+            font-size: 14px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+        }
+        .homeCentered51 {
+            position: absolute;
+            top: 37%;
+            left: 72%;
+            transform: translate(-50%, -50%);
+            font-size: 14px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+        }
+        .homeFlex1 {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-around;
+            width: 695px;
+            margin-left: -2px;
+            margin-top: 18px;
+            padding-top: 38px;
+        }
+        .home-input-card1 {
+            width: 134px;
+            border-radius: 24px;
+            margin-top: -38px;
+            background: #340782;
+            padding-left: 10px;
+            margin-left: -17px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 28px;
+            border: 3px solid #6c3cc8;
+        }
+        .card4a {
+            width: 63px;
+            border-radius: 10px;
+            /* background-image: linear-gradient(#170983, #7c0ba1); */
+            padding: 5px!important;
+            border: #fff;
+        }
+        .input4a {
+            width: 54px;
+            margin-bottom: 9px;
+            height: 27px;
+            text-align: center;
+            color: #fff;
+            font-family: 'micronica2010', serif;
+            font-size: 10px;
+            border: 1px solid #8fa868;
+            background: linear-gradient(#170983, #7c0ba1);
+        }
+        .button4a {
+            padding: 0px;
+            font-weight: 500;
+            font-size: 50px;
+            height: 56px;
+            font-family: 'micronica2010', serif;
+            background: #480a92;
+            color: #fff;
+            border: 2px solid #8fa868;
+            background: transparent!important;
+        }
+        .center4a {
+            position: absolute;
+            left: 50%;
+            top: 70%;
+            transform: translate(-50%, -47%);
+        }
+        .chip_number_5New{
+            padding: 0px;
+            background: transparent;
+            border: transparent;
+        }
+        .width_coin{
+            width: 41px;
+        }
+        .image_center_win {
+            position: absolute;
+            left: 50%;
+            top: 30%;
+            transform: translate(-52%, -65%);
+            font-size: 41px;
+            font-weight: 900;
+            color: #4f13c7;
+        }
+        .chip_number_5a{
+            position: absolute;
+            left: 70%;
+            top: 37%;
+            transform: translate(-91%, -28%);
+        }
+        .chip_number_5b{
+            padding: 1px 18px;
+            border-radius: 49%;
+            font-size: 28px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent; 
+            /* background: transparent;*/
+        }
+                
+        
+        .chip_number_10a{
+            position: absolute;
+            left: 76%;
+            top: 31%;
+            transform: translate(-95%, -26%);
+        }
+        .chip_number_10b {
+            padding: 1px 11px;
+            border-radius: 49%;
+            font-size: 28px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent;
+            /* background: transparent;*/
+        }
+        .chip_number_50a{
+            position: absolute;
+            left: 83%;
+            top: 37%;
+            transform: translate(-122%, -28%);
+        }
+        .chip_number_50b {
+            padding: 2px 11px;
+            border-radius: 49%;
+            font-size: 28px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent;
+            /* background: transparent;*/
+        }
+        .chip_number_100a{
+            position: absolute;
+           left: 90%;
+           top: 31%;
+           transform: translate(-148%, -26%);
+        }
+        .chip_number_100b {
+            padding: 1px 2px;
+            border-radius: 49%;
+            font-size: 28px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent;
+            /* background: transparent;*/
+        }
+        .chip_number_500a{
+            position: absolute;
+            left: 93%;
+            top: 37%;
+            transform: translate(-108%, -28%);
+        }
+        .chip_number_500b {
+            padding: 1px 2px;
+            border-radius: 49%;
+            font-size: 28px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent;
+            /* background: transparent;*/
+        }
+        .chip_number_1000a{
+            position: absolute;
+            left: 99%;
+            top: 31%;
+            transform: translate(-106%, -26%);
+        }
+        .chip_number_1000b {
+            padding: 8px 5px;
+            border-radius: 49%;
+            font-size: 17px;
+            font-weight: 600;
+            cursor: pointer;
+            color: transparent;
+            /* background: transparent;*/
+        
+    }
+    .last_10_data{
+        position: absolute;
+        left: 55%;
+        top: 86%;
+        transform: translate(-50%, -50%);
+    }
+    .last_10_data_width{
+        height: 19px;
+    }
+    .casinoTiming {
+        position: absolute;
+        left: 98%;
+        top: 15%;
+        transform: translate(-132%, 4%);
+    }
+    
+    .casinoTimingWidth {
+        width: 122px;
+        border-radius: 10px;
+        margin-left: 29px;
+        background: #1b0985;
+        border: 2px solid #5fb9f5;
+        padding: 2px;
+        height: 47px;
+    }
+    .casinoTimingFont{
+        font-size: 20px;
+        font-weight: bold;
+        font-family: digital;
+    }
+    .Balance{
+        position: absolute;
+        left: 49%;
+        top: 14%;
+        transform: translate(-134%, 6%);
+    }
+    .BalanceFont{
+        color: #fff;
+        font-size: 15px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .WiningAmount{
+        position: absolute;
+        left: 47%;
+        top: 32%;
+        transform: translate(-130%, -7%);
+        line-height: 0.9;
+    }
+    .WinnningFont{
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    }
+
+                                                                                    /* (max-width:699px) */
+
+@media(max-width:699px){
+
+    .homeCard1 {
+        background-color: #000;
+        width: 650px;
+        height: 504px;
+        position: absolute;
+        left: 50%;
+        top: 172px;
+        transform: translate(-50%, -21%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 186px!important;
+        margin-top: -21px!important;
+    }
+    
+    
+    .homeRight {
+        width: 227px;
+        margin-top: 16px;
+        margin-left: -23px;
+        height: 150px;
+    }
+    .homeLeft {
+        width: 227px;
+        margin-top: 16px;
+        margin-left: 26px;
+        margin-right: -23px;
+        height: 150px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 646px;
+        margin-left: -2px;
+        margin-top: 28px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 627px;
+        margin-top: 47px;
+        margin-left: 9px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .home-input-card2 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#3b119d,#1b0756);
+        padding-left: 5px;
+        margin-left: 0px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card4 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#226808,#13390f);
+        padding-left: 5px;
+        margin-left: 1px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card5 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#d44408,#7a290e);
+        padding-left: 5px;
+        margin-left: 1px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .Number_Button {
+        width: 57px;
+    }
+    .Button_1_image {
+        padding: 0px;
+        margin: 0px;
+        border-radius: 100px;
+        background: transparent!important;
+        border: transparent;
+    }
+    .home-input-card3 {
+        width: 162px;
+        border-radius: 24px;
+        margin-top: 1px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #5fb9f5;
+    }
+    .homeButtonBet {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 3px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    .homeButtonRebet {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5effed;
+        border-radius: 24px;
+    }
+    .homeButtonTake {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 21px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5fb9f5;
+        border-radius: 24px;
+    }
+    .homeButtonQuit {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 3px 21px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    /* .home-input-card1 {
+        width: 109px;
+        border-radius: 24px;
+        margin-top: -41px;
+        background: #340782;
+        padding-left: 4px;
+        margin-left: 1px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 23px;
+        border: 3px solid #6c3cc8;
+       
+    } */
+    .homeCentered52 {
+        position: absolute;
+        top: 59%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 12px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .homeCentered51 {
+        position: absolute;
+        top: 42%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+        font-size: 12px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+    }
+    .home-input-card1 {
+        width: 113px;
+        border-radius: 24px;
+        margin-top: -38px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: -3px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 23px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 57px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px!important;
+        border: #fff;
+    }
+    .input4a {
+        width: 49px;
+        margin-bottom: 9px;
+        height: 26px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 10px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 50px;
+        height: 47px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 33px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        transform: translate(-52%, -65%);
+        font-size: 41px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 71%;
+        top: 37%;
+        transform: translate(-91%, -34%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 76%;
+        top: 31%;
+        transform: translate(-95%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 83%;
+        top: 37%;
+        transform: translate(-122%, -34%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+       left: 89%;
+       top: 31%;
+       transform: translate(-148%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 91%;
+        top: 37%;
+        transform: translate(-98%, -34%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 96%;
+        top: 31%;
+        transform: translate(-106%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+}
+.win_number_1{
+    background: #f63226;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 21%;
+    top: 67%;
+    transform: translate(-98%, -59%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 29%;
+    top: 67%;
+    transform: translate(-103%, -59%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 39%;
+    top: 67%;
+    transform: translate(-123%, -59%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 42%;
+    top: 67%;
+    transform: translate(-53%, -59%);
+}.win_number_5{
+    background: #8640df;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 51%;
+    top: 67%;
+    transform: translate(-57%, -59%);
+}.win_number_6{
+    background: #e98810;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 60%;
+    top: 67%;
+    transform: translate(-65%, -59%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 65%;
+    top: 67%;
+    transform: translate(-25%, -59%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 73%;
+    top: 67%;
+    transform: translate(-21%, -59%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 0px 0px;
+    width: 17px;   
+     border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 84%;
+    top: 67%;
+    transform: translate(-56%, -59%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 0px 0px;
+    width: 17px; 
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 91%;
+    top: 67%;
+    transform: translate(-41%, -59%);
+}
+.casinoTiming {
+    position: absolute;
+    left: 101%;
+    top: 16%;
+    transform: translate(-145%, 1%);
+}
+
+.casinoTimingWidth {
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 2px;
+    height: 44px;
+}
+.casinoTimingFont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: digital;
+  }
+  .Balance{
+    position: absolute;
+    left: 53%;
+    top: 19%;
+    transform: translate(-134%, 6%);
+}
+.BalanceFont{
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.WiningAmount{
+    position: absolute;
+    left: 51%;
+    top: 35%;
+    transform: translate(-131%, -9%);
+    line-height: 0.8;
+}
+.WinnningFont{
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(#86f5fe 0%, #7c80f0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+}
+
+                                                                                /* (max-width:649px) */
+
+@media(max-width:649px){
+
+    .homeCard1 {
+        background-color: #000;
+        width: 650px;
+        height: 504px;
+        position: absolute;
+        left: 50%;
+        top: 114px;
+        transform: translate(-50%, -10%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 186px!important;
+        margin-top: -21px!important;
+    }
+    
+    
+    .homeRight {
+        width: 227px;
+        margin-top: 16px;
+        margin-left: -23px;
+        height: 150px;
+    }
+    .homeLeft {
+        width: 227px;
+        margin-top: 16px;
+        margin-left: 26px;
+        margin-right: -23px;
+        height: 150px;
+    }
+    .home-input-card1 {
+        width: 180px;
+        border-radius: 24px;
+        margin-top: -28px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 34px;
+        border: 3px solid #6c3cc8;
+    }
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 646px;
+        margin-left: -2px;
+        margin-top: 28px;
+        padding-top: 38px;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 627px;
+        margin-top: 47px;
+        margin-left: 9px;
+    }
+    .home-background-image {
+        background-image: url(/images/bottom.png);
+        background-size: auto;
+    }
+    .home-input-card2 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#3b119d,#1b0756);
+        padding-left: 5px;
+        margin-left: 0px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card4 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#226808,#13390f);
+        padding-left: 5px;
+        margin-left: 1px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .home-input-card5 {
+        width: 54px;
+        border-bottom-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        margin-top: 0px;
+        background: radial-gradient(#d44408,#7a290e);
+        padding-left: 5px;
+        margin-left: 1px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 37px;
+    }
+    .Number_Button {
+        width: 57px;
+    }
+    .Button_1_image {
+        padding: 0px;
+        margin: 0px;
+        border-radius: 100px;
+        background: transparent!important;
+        border: transparent;
+    }
+    .home-input-card3 {
+        width: 162px;
+        border-radius: 24px;
+        margin-top: 1px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #5fb9f5;
+    }
+    .homeButtonBet {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 3px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    .homeButtonRebet {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5effed;
+        border-radius: 24px;
+    }
+    .homeButtonTake {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 21px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5fb9f5;
+        border-radius: 24px;
+    }
+    .homeButtonQuit {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 3px 21px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    .home-input-card1 {
+        width: 113px;
+        border-radius: 24px;
+        margin-top: -38px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: -3px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 23px;
+        border: 3px solid #6c3cc8;
+    }
+    .card4a {
+        width: 57px;
+        border-radius: 10px;
+        /* background-image: linear-gradient(#170983, #7c0ba1); */
+        padding: 5px!important;
+        border: #fff;
+    }
+    .input4a {
+        width: 49px;
+        margin-bottom: 9px;
+        height: 26px;
+        text-align: center;
+        color: #fff;
+        font-family: 'micronica2010', serif;
+        font-size: 10px;
+        border: 1px solid #8fa868;
+        background: linear-gradient(#170983, #7c0ba1);
+    }
+    .button4a {
+        padding: 0px;
+        font-weight: 500;
+        font-size: 50px;
+        height: 47px;
+        font-family: 'micronica2010', serif;
+        background: #480a92;
+        color: #fff;
+        border: 2px solid #8fa868;
+        background: transparent!important;
+    }
+    .center4a {
+        position: absolute;
+        left: 50%;
+        top: 70%;
+        transform: translate(-50%, -47%);
+    }
+    .chip_number_5New{
+        padding: 0px;
+        background: transparent;
+        border: transparent;
+    }
+    .width_coin{
+        width: 33px;
+    }
+    .image_center_win {
+        position: absolute;
+        left: 50%;
+        top: 30%;
+        transform: translate(-52%, -65%);
+        font-size: 41px;
+        font-weight: 900;
+        color: #4f13c7;
+    }
+    .chip_number_5a{
+        position: absolute;
+        left: 71%;
+        top: 37%;
+        transform: translate(-91%, -34%);
+    }
+    .chip_number_5b{
+        padding: 1px 18px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent; 
+        /* background: transparent;*/
+    }
+            
+    
+    .chip_number_10a{
+        position: absolute;
+        left: 76%;
+        top: 31%;
+        transform: translate(-95%, -26%);
+    }
+    .chip_number_10b {
+        padding: 1px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_50a{
+        position: absolute;
+        left: 83%;
+        top: 37%;
+        transform: translate(-122%, -34%);
+    }
+    .chip_number_50b {
+        padding: 2px 11px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_100a{
+        position: absolute;
+       left: 89%;
+       top: 31%;
+       transform: translate(-148%, -26%);
+    }
+    .chip_number_100b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_500a{
+        position: absolute;
+        left: 91%;
+        top: 37%;
+        transform: translate(-98%, -34%);
+    }
+    .chip_number_500b {
+        padding: 1px 2px;
+        border-radius: 49%;
+        font-size: 28px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    }
+    .chip_number_1000a{
+        position: absolute;
+        left: 96%;
+        top: 31%;
+        transform: translate(-106%, -26%);
+    }
+    .chip_number_1000b {
+        padding: 8px 5px;
+        border-radius: 49%;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        color: transparent;
+        /* background: transparent;*/
+    
+}
+.win_number_1{
+    background: #f63226;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 21%;
+    top: 67%;
+    transform: translate(-98%, -59%);
+}
+.win_number_2{
+    background: #adda14;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 29%;
+    top: 67%;
+    transform: translate(-103%, -59%);
+}
+.win_number_3{
+    background: #ee1de9;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 39%;
+    top: 67%;
+    transform: translate(-123%, -59%);
+}.win_number_4{
+    background: #09cad9;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 42%;
+    top: 67%;
+    transform: translate(-53%, -59%);
+}.win_number_5{
+    background: #8640df;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 51%;
+    top: 67%;
+    transform: translate(-57%, -59%);
+}.win_number_6{
+    background: #e98810;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 60%;
+    top: 67%;
+    transform: translate(-65%, -59%);
+}.win_number_7{
+    background: #d8a91c;
+    padding: 0px 0px;
+    width: 17px;     
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 65%;
+    top: 67%;
+    transform: translate(-25%, -59%);
+}.win_number_8{
+    background: #0ada61;
+    padding: 0px 0px;
+    width: 17px;    
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 73%;
+    top: 67%;
+    transform: translate(-21%, -59%);
+}
+.win_number_9{
+    background: #7e7c08;
+    padding: 0px 0px;
+    width: 17px;   
+     border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 84%;
+    top: 67%;
+    transform: translate(-56%, -59%);
+}
+.win_number_0{
+    background: #287cee;
+    padding: 0px 0px;
+    width: 17px; 
+    border-radius: 4px;
+    font-weight: 100;
+    font-size: 14px;
+    font-family: 'micronica2010', serif;
+    position: absolute;
+    left: 91%;
+    top: 67%;
+    transform: translate(-41%, -59%);
+}
+.casinoTiming {
+    position: absolute;
+    left: 101%;
+    top: 16%;
+    transform: translate(-145%, 1%);
+}
+
+.casinoTimingWidth {
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 29px;
+    background: #1b0985;
+    border: 2px solid #5fb9f5;
+    padding: 2px;
+    height: 44px;
+}
+.casinoTimingFont{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: digital;
+  }
+}
+/* @media (min-width: 1300px) and (max-width: 1443px){
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 921px;
+        margin-left: 74px;
+        margin-top: 50px;
+    }
+    .homeCard1 {
+        background-color: #000;
+        width: 1280px;
+        height: 712px;
+        position: absolute;
+        left: 50%;
+        top: 53%;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    @media (min-width: 1300px){
+        .Price_Chart_main1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+            width: 933px;
+            margin-top: 47px;
+            margin-left: 172px;
+        }
+        .homeFlex1 {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-around;
+            width: 921px;
+            margin-left: 74px;
+            margin-top: 69px;
+        }
+    }
+}
+@media (min-width: 1024px) and (max-width: 1299px){
+    .homeFlex1 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: 921px;
+        margin-left: 13px;
+        margin-top: 82px;
+    }
+    .homeCard1 {
+        background-color: #000;
+        width: 1280px;
+        height: 712px;
+        position: absolute;
+        left: 50%;
+        top: 53%;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 325px;
+       
+    }
+    .homeRight {
+        width: 355px;
+        margin-top: 64px;
+        margin-left: -34px;
+        height: 214px;
+    }
+    .homeLeft {
+        width: 355px!important;
+        margin-top: 64px!important;
+        margin-left: 27px!important;
+        margin-right: -34px!important;
+        height: 214px!important;
+    }
+    .Price_Chart_main1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+        width: 892px;
+        margin-top: 47px;
+        margin-left: 47px;
+    }
+    .homeCard1 {
+        background-color: #000;
+        width: 1000px;
+        height: 634px;
+        position: absolute;
+        left: 50%;
+        top: 53%;
+        transform: translate(-50%, -50%);
+        border-style: solid;
+        border-color: coral;
+    }
+    .homeCircular {
+        width: 296px;
+    }
+    .home-input-card3 {
+        width: 270px;
+        border-radius: 24px;
+        margin-top: 1px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: 5px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #5fb9f5;
+    }
+    .homeButtonBet {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 2px 29px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    .homeButtonRebet {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5effed;
+        border-radius: 24px;
+    }
+    .homeButtonTake {
+        background-image: linear-gradient(#1dc6d0, #07497f);
+        border: none;
+        color: white;
+        padding: 3px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #5effed;
+        border-radius: 24px;
+    }
+    .homeButtonQuit {
+        background-image: linear-gradient(#7fd01e, #32750c);
+        border: none;
+        color: white;
+        padding: 3px 26px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-weight: bold;
+        border: 3px solid #a9e419;
+        border-radius: 24px;
+    }
+    .home-input-card1 {
+        width: 168px;
+        border-radius: 24px;
+        margin-top: -3px;
+        background: #340782;
+        padding-left: 10px;
+        margin-left: -9px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 39px;
+        border: 3px solid #6c3cc8;
+        font-size: 17px;
+        padding-top: 3px;
+    }
+    @media (max-width: 1099px){
+        .Price_Chart_main1 {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+            width: 800px!important;
+            margin-top: 47px;
+            margin-left: 103px;
+        }
+        .home-input-card2 {
+            width: 56px;
+            border-radius: 3px;
+            margin-top: 0px;
+            background: #2b0781;
+            padding-left: 0px;
+            margin-left: 0px;
+            border: 0px;
+            font-family: 'Bevan', serif;
+            font-weight: 100;
+            color: #fff;
+            height: 26px;
+        }
+    }
+} */

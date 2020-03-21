@@ -1,0 +1,5944 @@
+@media screen and (max-width: 767px){
+     
+    .row, .navbar {
+         flex-direction: row;
+     }
+}
+@font-face {
+    font-family: digital;
+    src: url('/fonts/digital.ttf');
+  } 
+
+.and_width_640px {
+ display: flex;
+ justify-content: center;
+}
+.and_cric_logo{
+    display: flex;
+    justify-content: center;
+}
+
+.and_cricket_card{
+    height: 1136px;
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 620px;
+    transform: translate(-50%, -50%);
+}
+.and_cric_logo_size{
+    width: 355px;
+    margin-top: 40px;
+}
+.and_cricket_header_panel{
+ padding: 7px;
+ font-family: 'Noto Sans HK', sans-serif;
+ font-size: 23px;
+ color: #48b9f8;
+}
+.and_teamList{
+ display: flex;
+ justify-content: center;
+ margin-left: 0px;
+ margin-right: 0px;
+}
+.panel-heading{
+    height: 48px;
+}
+.and_cricket_secondCard {
+ height: 169px;
+ width: 750px;
+ background-color: transparent;
+ border-style: solid;
+ border-color: #2345ee;
+ border-radius: 20px;
+ margin-left: 0px;
+}
+.and_teamA{
+ margin-top: -2px;
+ margin-left: -53px;
+ width: 76px;
+}
+.and_australia_india_burning{
+ font-size: 20px;
+ color: #fcff00;
+ font-family: 'micronica2010', serif;
+ margin-left: 13px;
+ float:left;
+}
+.and_cricketCentered51 {
+ position: absolute;
+ top: 37%;
+ left: 15%;
+ transform: translate(-13%, 20%);
+ font-size: 19px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+}
+.and_cricket-input-card1{
+ width: 183px;
+ border-radius: 24px;
+ margin-top: -8px;
+ background: radial-gradient(#d90000,#310406);
+ padding-left: 10px;
+ margin-left: -37px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 31px;
+ border: 3px solid #ff2121;
+}
+.and_cricket_2nd_row_1st{
+ display: flex;
+ flex-direction: column;
+ margin-left: -29px;
+}
+.and1_cricket_2nd_row_1st{
+ display: flex;
+ flex-direction: column;
+ margin-left: -29px;
+}
+.and_cricket-input-card2 {
+ width: 65px;
+ border-radius: 8px;
+ background: radial-gradient(#2b0781,#190455);
+ margin-left: 9px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #5b1fba;
+}
+.and_runningBall{
+ width: 205px;
+ margin-left: -22px;
+}
+.and_cricketCentered52 {
+ position: absolute;
+ top: 37%;
+ left: 32%;
+ transform: translate(109%, 2%);
+ font-size: 14px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+}
+.and_cricket_secondCard1 {
+ height: 210px;
+ width: 750px;
+ background-color: transparent;
+ border-style: solid;
+ border-color: #2345ee;
+ border-radius: 20px;
+ margin-left: 0px;
+ margin-top: 35px;
+}
+.and_cricket_secondCard2 {
+ height: 289px;
+ width: 750px;
+ background-color: transparent;
+ border-style: solid;
+ border-color: #2345ee;
+ border-radius: 20px;
+ margin-top: 35px;
+}
+.and_cricket_final_button1 {
+ background: linear-gradient(#9dc82c, #37770c);
+ border: 3px solid #a9e419;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ font-weight: bold;
+ padding: 4px 28px;
+ border-radius: 9px;
+ font-size: 16px;
+}
+.and_cricket_final_button {
+ background: linear-gradient(#f12f30, #aa1b20);
+ border: 3px solid #ff2121;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ font-weight: bold;
+ padding: 4px 15px;
+ border-radius: 9px;
+ font-size: 16px;
+}
+.and_cricket_1st_col{
+ display: flex;
+ justify-content: space-around;
+ margin-top: -42px;
+}
+.and_margin_top1{
+ margin-top: -11px;
+ margin-left: -11px;
+}
+.and_margin_top2{
+ margin-top: -8px;
+}
+.and_margin_top3{
+ margin-top: 0px;
+ margin-left: 11px;
+
+} 
+.and_margin_top4{
+ margin-top: 36px;
+} 
+.and_margin_top5{
+ margin-top: 36px;
+ margin-left: -11px;
+} 
+.and_margin_top6{
+ margin-top: 50px;
+ margin-left: -4px
+} 
+.and_margin_top_row{
+ margin-top: 53px;
+}
+
+.and_thirdSecondLine2{
+ font-size: 24px;
+ font-weight: 800;
+ margin-top: 27px;
+ margin-left: -9px;
+ color: #fff;
+}
+
+.and_thirdRunningBall{
+ width: 205px;
+ margin-top: 107px;
+ margin-left: -23px;
+}
+.and_thirdSecondLine1{
+ font-size: 24px;
+ font-weight: 800;
+ margin-top: 73px;
+ margin-left: -9px;
+ color: #fff;
+}
+
+.and_cricket-input-card6{
+ width: 244px;
+ border-radius: 24px;
+ background: linear-gradient(#faa201, #d85608);
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 30px;
+ padding-top: 0px;
+ font-size: 20px;
+ /* margin-left: -55px; */
+ margin-top: -104px;
+ position: absolute;
+ left: 48%;
+ top: 50%;
+ transform: translate(-50%, -50%);
+ text-align: center;
+}
+.and_cricket-input-card222{
+ width: 65px;
+ border-radius: 10px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#6c9f15,#3b4e1b);
+ /* padding-left: 1px; */
+ margin-left: 18px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #a6d033;
+ position: absolute;
+}
+.and_cricket-input-card333{
+ width: 65px;
+ border-radius: 10px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#f92021,#651d20);
+ /* padding-left: 1px; */
+ margin-left: 18px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #d90000;
+ position: absolute;
+}
+.and_cricket-input-card555{
+ width: 65px;
+ border-radius: 8px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#6c9f15,#3b4e1b);
+ /* padding-left: 1px; */
+ margin-left: 18px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #a6d033;
+ position: absolute;
+}
+.and_cricket-input-card666{
+ width: 65px;
+ border-radius: 10px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#f92021,#651d20);
+ /* padding-left: 1px; */
+ margin-left: 18px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #d90000;
+ position: absolute;
+}
+.and_cricket-input-card111{
+ width: 65px;
+ border-radius: 8px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#2b0781,#190455);
+ /* padding-left: 1px; */
+ margin-left: 18px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #5b1fba;
+ position: absolute;
+}
+.and_cricket-input-card000{
+ width: 65px;
+ border-radius: 8px;
+ /* margin-top: 34px; */
+ background: radial-gradient(#2b0781,#190455);
+ /* padding-left: 1px; */
+ margin-left: 4px;
+ border: 0px;
+ font-family: 'Bevan', serif;
+ font-weight: 100;
+ color: #fff;
+ height: 32px;
+ border: 3px solid #5b1fba;
+ position: absolute;
+}
+.and_cricket_L_class222{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 89px;
+}
+.and_cricket_L_class333{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 89px;
+}
+.and_cricket_L_class555{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 89px;
+}
+.and_cricket_L_class666{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 89px;
+}
+.and_cricket_L_class111{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 89px;
+}
+.and_cricket_L_class000{
+ font-size: 23px;
+ font-weight: bold;
+ margin-left: 75px;
+}
+.and_calculator {
+ padding: 0px 13px;
+ color: #fff;
+ background: #101e78;
+ font-weight: bold;
+ font-size: 20px;
+ border-radius: 8px;
+ border-color: transparent;
+}
+.and_zero_center{
+ text-align: center;
+ padding-left: 21px;
+}
+.and_margin_top_row1{
+margin-top: 70px;
+margin-left: -32px;
+}
+.and_margin_top_row2{
+margin-top: 20px;
+margin-left: -32px;
+}
+.and_margin_top_row3{
+margin-top: 20px;
+margin-left: -32px;
+
+}
+.and_padding_left{
+ padding-left: 0px;
+}
+.margin_top_row4{
+ margin-top: 20px;
+}
+.and_cancel_padding_left{
+ padding-left: 48px;
+}
+.and_india_final{
+ margin-top: 20px;
+ font-size: 26px;
+ font-family: 'micronica2010', serif
+}
+.and_margin_finalBet_11{
+margin-top: 20px;
+}
+.and_margin_finalBet_22{
+margin-top: 20px;
+}
+.and_margon-top_Ok{
+ margin-top: 69px
+}
+.and_margon-top_Cancel{
+margin-top: 30px;
+} 
+
+                                                      /* @media(max-width:767px) */
+@media(max-width:767px){
+ .card{
+     padding: 0px;
+ }
+ 
+ .and_india_final {
+    margin-top: 72px;
+    font-size: 26px;
+    font-family: 'micronica2010', serif;
+}
+.final_bet_timer {
+    width: 138px;
+    border-radius: 10px;
+    height: 84px;
+    margin-left: -14px;
+    background: #1b0985;
+    border: 4px solid #5fb9f5;
+    margin-top: 23px;
+}
+.and_margon-top_Ok {
+    margin-top: 30px;
+}
+.and_thirdNo1 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 19px;
+    background-color: #ec3a39!important;
+    width: 55px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 4px;
+}
+.and_thirdNo2 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+    background-color: #ec3a39!important;
+    width: 55px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 4px;
+}
+
+.and_thirdNo3{
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 19px;
+    background: linear-gradient(#9dc82c, #37770c);
+    width: 55px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 4px;
+   }
+   .and_thirdNo4{
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+    background: linear-gradient(#9dc82c, #37770c);
+    width: 55px;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 4px;
+   }
+}
+
+.and_burnibgBall_width{
+    width: 750px
+}
+.and_padding_left_finalBet{
+    padding-left: 24px;
+}
+
+                                                         /* (max-width: 760px) and (min-width: 650px) */
+@media (max-width: 760px) and (min-width: 650px){
+
+    .casinoTiming {
+        position: absolute;
+        left: 101%;
+        top: 16%;
+        transform: translate(-147%, -5%);
+    }
+    .and_cricket_card {
+    height: 1133px!important;
+    width: 100%!important;
+    position: absolute!important;
+    left: 50%!important;
+    top: 618px!important;
+    transform: translate(-50%, -50%)!important;
+}
+    .and_padding_left_finalBet {
+        padding-left: 19px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: 74px;
+    }
+    .and_cancel_padding_left {
+        padding-left: 27px;
+    }
+    .and_cricket-input-card000 {
+        width: 65px;
+        border-radius: 8px;
+        /* margin-top: 34px; */
+        background: radial-gradient(#2b0781,#190455);
+        /* padding-left: 1px; */
+        margin-left: 4x;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 32px;
+        border: 3px solid #5b1fba;
+        position: absolute;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 183px!important;
+        width: 640px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 220px!important;
+        width: 640px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+        margin-left: 0px!important;
+        margin-top: 35px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 298px!important;
+        width: 640px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+        margin-top: 35px!important;
+    }
+    .and_teamA {
+        margin-top: -2px!important;
+        margin-left: -72px!important;
+        width: 68px!important;
+        height: 14px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 15px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 190px!important;
+        border-radius: 24px!important;
+        margin-top: -8px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -62px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 32px!important;
+        border: 3px solid #ff2121!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 22px!important;
+        font-weight: 800!important;
+        margin-top: 72px!important;
+        margin-left: -11px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 22px!important;
+        font-weight: 800!important;
+        margin-top: 43px!important;
+        margin-left: -11px!important;
+        color: #fff!important;
+    }
+   
+    .and_margin_finalBet_11 {
+        margin-top: 22px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+    }
+    .and_runningBall {
+        width: 211px!important;
+        margin-left: -18px!important;
+        height: 34px!important;
+        margin-top: -3px!important;
+    }
+    .and_thirdRunningBall {
+        width: 211px!important;
+        margin-top: 112px!important;
+        margin-left: -20px!important;
+        height: 34px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 211px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        padding-top: 0px!important;
+        font-size: 20px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 49%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 38px!important;
+    }
+    .and_margin_top3 {
+        margin-top: 5px!important;
+        margin-left: 11px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 65px!important;
+        border-radius: 8px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 5px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 32px!important;
+        border: 3px solid #5b1fba!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -42px!important;
+        /* margin-left: 11px!important; */
+    }
+    .and_padding_left {
+        padding-left: 0px!important;
+    }
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        margin-left: -17px!important;
+    }
+    .and_margin_top_row2 {
+        margin-top: 20px!important;
+        margin-left: -17px!important;
+    }
+    .and_margin_top_row3 {
+        margin-top: 20px!important;
+        margin-left: -17px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 31px!important;
+    }
+    .and_burnibgBall_width {
+        width: 640px!important;
+    }
+    .thirdNo {
+        font-size: 23px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        margin-left: 22px!important;
+    }
+    .panel-heading {
+        height: 48px!important;
+    }
+    .and_cric_logo_size{
+        width: 325px!important;
+        margin-top: 40px!important;
+    }
+    .and_india_final {
+        margin-top: 72px!important;
+        font-size: 22px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .final_bet_timer {
+        width: 138px!important;
+        border-radius: 10px!important;
+        height: 84px!important;
+        margin-left: -14px!important;
+        background: #1b0985!important;
+        border: 4px solid #5fb9f5!important;
+        margin-top: 23px!important;
+    }
+    .and_margon-top_Ok {
+        margin-top: 30px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 23px;
+        font-weight: 800;
+        margin-top: 30px;
+        background-color: #ec3a39!important;
+        width: 55px;
+        border-radius: 10px;
+        margin-left: 20px;
+        padding: 4px;
+    }
+    .and_thirdNo1 {
+        font-size: 23px;
+        font-weight: 800;
+        margin-top: 21px;
+        background-color: #ec3a39!important;
+        width: 55px;
+        border-radius: 10px;
+        margin-left: 20px;
+        padding: 4px;
+    }
+    .and_thirdNo3{
+        font-size: 23px;
+        font-weight: 800;
+        margin-top: 21px;
+        background: linear-gradient(#9dc82c, #37770c);
+        width: 55px;
+        border-radius: 10px;
+        margin-left: 20px;
+        padding: 4px;
+       }
+       .and_thirdNo4{
+        font-size: 23px;
+        font-weight: 800;
+        margin-top: 30px;
+        background: linear-gradient(#9dc82c, #37770c);
+        width: 55px;
+        border-radius: 10px;
+        margin-left: 20px;
+        padding: 4px;
+       }
+}
+                                                        /* (max-width: 649px) and (min-width: 550px)     */
+
+@media (max-width: 649px) and (min-width: 550px){
+    .and_cricket_card {
+        height: 1055px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 579px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 169px!important;
+        width: 540px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 180px!important;
+        width: 540px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+        margin-left: 0px!important;
+        margin-top: 35px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 296px!important;
+        width: 540px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+        margin-top: 35px!important;
+    }
+    .and_teamA {
+        margin-top: -2px!important;
+        margin-left: -56px!important;
+        width: 62px!important;
+        height: 14px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 15px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 3px;
+    }
+    .and_cricket-input-card1 {
+        width: 150px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -39px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 14px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 17px!important;
+        font-weight: 800!important;
+        margin-top: 58px!important;
+        margin-left: -24px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 17px!important;
+        font-weight: 800!important;
+        margin-top: 35px!important;
+        margin-left: -24px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 75px!important;
+        font-size: 22px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_cricket-input-card111 {
+        width: 65px;
+        border-radius: 8px;
+        /* margin-top: 34px; */
+        background: radial-gradient(#2b0781,#190455);
+        /* padding-left: 1px; */
+        margin-left: 21px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 32px;
+        border: 3px solid #5b1fba;
+        position: absolute;
+    }
+    .and_cricket_L_class111 {
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: 89px;
+    }
+    .and_cricket-input-card000 {
+        width: 65px;
+        border-radius: 8px;
+        /* margin-top: 34px; */
+        background: radial-gradient(#2b0781,#190455);
+        /* padding-left: 1px; */
+        margin-left: 7px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 32px;
+        border: 3px solid #5b1fba;
+        position: absolute;
+    }
+    .and_cricket_L_class000 {
+        font-size: 23px;
+        font-weight: bold;
+        margin-left: 75px;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 23px!important;
+        padding-left: 17px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 17px!important;
+    }
+    .and_runningBall {
+        width: 182px!important;
+        margin-left: -7px!important;
+    }
+    .and_thirdRunningBall {
+        width: 182px!important;
+        margin-top: 89px!important;
+        margin-left: -13px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 198px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        padding-top: 0px!important;
+        font-size: 20px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 54%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 540px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left: 0px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: 0px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 10px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 13px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 19px!important;
+        margin-left: 11px!important;
+        padding-left: 34px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background-color: #ec3a39!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background-color: #ec3a39!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -33px!important;
+        padding-left: 34px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 17px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        margin-left: 17px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 2px!important;
+        padding-right: 2px!important;
+    }
+    .and_padding_left {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 33px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 42px!important;
+    }
+    .and_margin_top_row1 {
+        margin-top: 70px;
+        margin-left: -6px;
+    }
+   
+    .and_margin_top_row2 {
+        margin-left: -6px;
+    }
+    .and_margin_top_row3 {
+        margin-left: -6px;
+    }
+    .panel-heading {
+        height: 48px!important;
+    }
+    .and_cric_logo_size{
+        width: 325px;
+        margin-top: 40px;
+    }
+    @media(max-width:575px){
+        .and_margin_top_row1{
+            padding-left: 15px!important;
+            width: 105%!important;
+            margin-left: 28px!important;
+        }
+        .and_margin_top_row2{
+            padding-left: 15px!important;
+            width: 105%!important;
+            margin-left: 28px!important;
+        }
+        .and_margin_top_row3{
+            padding-left: 15px!important;
+            width: 105%!important;
+            margin-left: 28px!important;
+        }
+    }
+    .final_bet_timer {
+        width: 107px;
+        border-radius: 10px;
+        height: 72px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+}
+
+/* @media(max-width:575px){
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 23px!important;
+        width: 131%!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 23px!important;
+        width: 131%!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 23px!important;
+        width: 131%!important;
+    }
+} */
+
+@media (min-width: 350px){
+    .col-sm-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col-sm-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+}
+                                                            /* (max-width: 549px) and (min-width: 450px) */
+@media (max-width: 549px) and (min-width: 450px){
+    .and_cricket_card {
+        height: 939px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 521px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 160px!important;
+        width: 440px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 179px!important;
+        width: 440px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+        margin-left: 0px!important;
+        margin-top: 15px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 293px!important;
+        width: 440px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+        margin-top: 15px!important;
+    }
+    .and_teamA {
+        margin-top: -2px!important;
+        margin-left: -26px!important;
+        width: 62px!important;
+        height: 14px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 15px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 2px;
+    }
+    .and_cricket-input-card1 {
+        width: 109px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -14px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 14px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 59px!important;
+        margin-left: -12px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 42px!important;
+        margin-left: -12px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 80px!important;
+        font-size: 18px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 6px;
+    }
+    .and_cricket-input-card111 {
+        width: 65px;
+        border-radius: 8px;
+        /* margin-top: 34px; */
+        background: radial-gradient(#2b0781,#190455);
+        /* padding-left: 1px; */
+        margin-left: 22px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 32px;
+        border: 3px solid #5b1fba;
+        position: absolute;
+    }
+    .and_cricket_L_class111 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 88px;
+    }
+    .and_cricket-input-card000 {
+        width: 65px;
+        border-radius: 8px;
+        /* margin-top: 34px; */
+        background: radial-gradient(#2b0781,#190455);
+        /* padding-left: 1px; */
+        margin-left: 11px;
+        border: 0px;
+        font-family: 'Bevan', serif;
+        font-weight: 100;
+        color: #fff;
+        height: 32px;
+        border: 3px solid #5b1fba;
+        position: absolute;
+    }
+    .and_cricket_L_class000 {
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 77px;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 16px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 16px!important;
+    }
+    .and_runningBall {
+        width: 165px!important;
+        margin-left: -20px!important;
+    }
+    .and_thirdRunningBall {
+        width: 165px!important;
+        margin-top: 89px!important;
+        margin-left: -18px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 188px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        padding-top: 0px!important;
+        font-size: 20px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 54%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 430px!important;
+        height: 114px;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-20px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -20px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 6px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 13px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 48px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 25px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 67px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 20px!important;
+        padding-right: 0px!important;
+        margin-left: 19px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background-color: #ec3a39!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background-color: #ec3a39!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 37px!important;
+        border-radius: 5px!important;
+        margin-left: 15px!important;
+        padding: 5px 9px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 20px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 17px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        margin-left: 15px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 13px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 37px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 4px
+    }
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -3px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -3px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -3px!important;
+    }
+    .panel-heading {
+        height: 48px!important;
+    }
+    .and_cric_logo_size{
+        width: 318px;
+        margin-top: 28px;
+    }
+    .and_cricket_header_panel {
+        padding: 7px;
+        font-family: 'Noto Sans HK', sans-serif;
+        font-size: 19px;
+        color: #48b9f8;
+    }
+    .final_bet_timer {
+        width: 100px;
+        border-radius: 10px;
+        height: 61px;
+        margin-left: -8px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 17px;
+        color: #b5d2e6;
+    }
+}
+
+                                                                    /* (max-width: 449px) and (min-width: 400px) */
+@media (max-width: 449px) and (min-width: 400px){
+    .and_cricket_card {
+        height: 880px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 491px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 155px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 157px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+        margin-left: 0px!important;
+        margin-top: 15px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 286px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 15px!important;
+        margin-top: 15px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -36px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -3px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 49px!important;
+        margin-left: 8px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 38px!important;
+        margin-left: 8px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -14px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 79px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 390px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 13px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 13px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 13px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 13px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 13px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 13px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        margin-left: 12px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 5px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 14px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 25px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 17px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -7px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 58px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 30px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 31px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    .and_cricket-input-card000 {
+        width: 58px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 21px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 31px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .and_cricket_L_class111 {
+        font-size: 16px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 16px!important;
+        font-weight: bold!important;
+        margin-left: 80px!important;
+    }
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 26px!important;
+        width: 131%!important;
+        margin-left: -21px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -21px!important;
+        padding-left: 26px!important;
+
+
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -21px!important;
+        padding-left: 26px!important;
+    }
+    .panel-heading {
+        height: 48px!important;
+    }
+    .and_cric_logo_size{
+        width: 307px;
+        margin-top: 18px;
+    }
+    .final_bet_timer {
+        width: 95px;
+        border-radius: 10px;
+        height: 63px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 3px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 133%;
+    }
+}
+                                                                        /* (max-width: 399px) and (min-width: 395px) */
+@media (max-width: 399px) and (min-width: 395px){
+    .and_cricket_card {
+        height: 858px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 483px!important;
+        transform: translate(-50%, -50%)!important;
+    
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 157px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 138px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 15px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 294px!important;
+        width: 390px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 15px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -40px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 38px!important;
+        margin-left: -20px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 32px!important;
+        margin-left: -20px!important;
+        color: #fff!important;
+    }
+   
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -14px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 61px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 390px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 14px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 14px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 22px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 14px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 22px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 14px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 6px!important;
+        margin-left: 12px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 14px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 23px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 16px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -7px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 63px!important;
+        border-radius: 8px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 25px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+  
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        width: 131%!important;
+        margin-left: -16px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -16px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -16px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 44px!important;
+    }
+    .and_cric_logo_size{
+        
+            width: 256px;
+            margin-top: 19px;
+        
+    }
+    .final_bet_timer {
+        width: 91px;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 63px!important;
+        border-radius: 8px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 17px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 81px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 140%;
+    }
+}
+                                                                    /* (max-width: 394px) and (min-width: 390px) */
+@media (max-width: 394px) and (min-width: 390px){
+    .and_cricket_card {
+        height: 848px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 481px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 154px!important;
+        width: 385px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 143px!important;
+        width: 385px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 15px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 289px!important;
+        width: 385px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 15px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -37px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -3px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 44px!important;
+        margin-left: -14px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 32px!important;
+        margin-left: -14px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 20px!important;
+        font-size: 14px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -18px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 69px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 385px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b);
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20);
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 20px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 20px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        margin-left: 11px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 13px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 29px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 16px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -7px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 63px!important;
+        border-radius: 8px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 32px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 32px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    } */
+    /* .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    /* .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        width: 131%!important;
+        padding-left: 19px!important;
+        margin-left: -14px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        padding-left: 19px!important;
+        margin-left: -14px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        padding-left: 19px!important;
+        margin-left: -14px!important;
+    }
+    .panel-heading {
+        height: 42px!important;
+    }
+    .and_cric_logo_size{
+        width: 250px;
+        margin-top: 19px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 63px!important;
+        border-radius: 8px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 9px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 32px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 73px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 82px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_cricket_2nd_row_1st {
+        width: 133%;
+        display: flex;
+        flex-direction: column;
+        margin-left: -20px;
+    }
+}
+                                                                /* (max-width: 389px) and (min-width: 385px) */
+@media (max-width: 389px) and (min-width: 385px){
+    .and_cricket_card {
+        height: 832px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 477px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 155px!important;
+        width: 380px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 132px!important;
+        width: 380px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 15px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 287px!important;
+        width: 380px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 15px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -36px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 40px!important;
+        margin-left: -14px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 30px!important;
+        margin-left: -14px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 20px!important;
+        font-size: 14px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -18px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 63px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 380px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 10px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 10px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 17px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 17px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 12px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 7px!important;
+        margin-left: 10px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 4px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 1px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 13px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 28px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 16px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -7px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 28px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 32px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -14px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -14px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -14px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 42px!important;
+    }
+    .and_cric_logo_size{
+        width: 250px;
+        margin-top: 17px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 20px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 80px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 135%;
+    }
+}
+                                                                /* (max-width: 384px) and (min-width: 380px) */
+@media (max-width: 384px) and (min-width: 380px){
+    .and_cricket_card {
+        height: 799px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 459px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 155px!important;
+        width: 375px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 123px!important;
+        width: 375px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 10px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 282px!important;
+        width: 375px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 10px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -33px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -3px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 41px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 24px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 25px!important;
+        font-size: 13px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -16px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 61px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 375px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 10px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 10px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 15px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 11px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 15px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 11px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        margin-left: 10px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 2px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 14px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 26px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 15px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -7px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 29px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 29px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 32px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 40px!important;
+    }
+    .and_cric_logo_size{
+        width: 226px;
+        margin-top: 16px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -14px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 21px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 81px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 8px;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 137%;
+    }
+}
+                                                                /* (max-width: 379px) and (min-width: 375px) */
+@media (max-width: 379px) and (min-width: 375px){
+    .and_cricket_card {
+        height: 790px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 447px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 154px!important;
+        width: 370px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 119px!important;
+        width: 370px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 12px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 284px!important;
+        width: 370px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 12px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -33px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 40px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 28px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 25px!important;
+        font-size: 13px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -15px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 61px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 345px!important;
+        height: 96px;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 7px!important;
+        margin-left: 9px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 10px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 27px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 15px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -8px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 57px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 40px!important;
+    }
+    .and_cric_logo_size{
+        width: 242px;
+        margin-top: 17px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -11px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 57px!important;
+        border-radius: 6px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 23px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 82px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 5px;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 133%;
+    }
+}
+                                                                /* (max-width: 374px) and (min-width: 370px) */
+@media (max-width: 374px) and (min-width: 370px){
+    .and_cricket_card {
+        height: 800px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 451px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 150px!important;
+        width: 368px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 8px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 125px!important;
+    width: 368px!important;
+    background-color: transparent!important;
+    border-style: solid!important;
+    border-color: #2345ee!important;
+    border-radius: 10px!important;
+    margin-left: 0px!important;
+    margin-top: 13px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 288px!important;
+        width: 368px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 13px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -33px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 38px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 26px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 25px!important;
+        font-size: 13px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -15px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 61px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 348px!important;
+    height: 94px;
+
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 8px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 16px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 7px!important;
+        margin-left: 8px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 10px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 27px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 15px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -8px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 58px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 17px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 40px!important;
+    }
+    .and_cric_logo_size{
+        width: 245px;
+        margin-top: 18px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -11px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 58px!important;
+        border-radius: 6px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 24px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 82px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px;
+    }
+
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 133%;
+    }
+}
+                                                                    /* (max-width: 369px) and (min-width: 365px) */
+@media (max-width: 369px) and (min-width: 365px){
+    .and_cricket_card {
+        height: 800px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 450px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 152px!important;
+        width: 363px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    
+    }
+    .and_cricket_secondCard1 {
+        height: 122px!important;
+        width: 363px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 12px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 287px!important;
+        width: 363px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 20px!important;
+        margin-top: 12px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -33px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 35px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 26px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 25px!important;
+        font-size: 13px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -15px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 56px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 316px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 9px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 9px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 14px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 9px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 5px!important;
+        margin-left: 8px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 10px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 27px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 14px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -8px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 59px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 29px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 40px!important;
+    }
+    .and_cric_logo_size{
+        width: 250px;
+        margin-top: 16px;
+    }
+    .final_bet_timer {
+        width: 91px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -11px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 4px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 15px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 59px!important;
+        border-radius: 6px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 21px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 82px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 16px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 3px;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 143%;
+    }
+}
+
+                                                                /* (max-width: 364px) and (min-width: 360px) */
+@media (max-width: 364px) and (min-width: 360px){
+    .and_cricket_card {
+        height: 774px!important;
+        width: 100%!important;
+        position: absolute!important;
+        left: 50%!important;
+        top: 437px!important;
+        transform: translate(-50%, -50%)!important;
+    }
+    .and_width_640px{
+        display: flex!important;
+        justify-content: center!important;
+    }
+    .and_cricket_secondCard {
+        height: 148px!important;
+        width: 358px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+    }
+    .and_cricket_secondCard1 {
+        height: 118px!important;
+        width: 358px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-left: 0px!important;
+        margin-top: 10px!important;
+    }
+    .and_cricket_secondCard2 {
+        height: 282px!important;
+        width: 358px!important;
+        background-color: transparent!important;
+        border-style: solid!important;
+        border-color: #2345ee!important;
+        border-radius: 10px!important;
+        margin-top: 10px!important;
+    }
+    .and_teamA {
+        margin-top: 1px!important;
+        margin-left: -33px!important;
+        width: 40px!important;
+        height: 9px!important;
+    }
+    .and_australia_india_burning {
+        font-size: 12px!important;
+        color: #fcff00!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 4px!important;
+        margin-top: 7px;
+       
+    }
+    .and_cricket-input-card1 {
+        width: 104px!important;
+        border-radius: 24px!important;
+        margin-top: -6px!important;
+        background: radial-gradient(#d90000,#310406)!important;
+        padding-left: 10px!important;
+        margin-left: -2px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #ff2121!important;
+        font-size: 11px!important;
+    }
+    .and_thirdSecondLine1 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 35px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_thirdSecondLine2 {
+        font-size: 12px!important;
+        font-weight: 800!important;
+        margin-top: 21px!important;
+        margin-left: -10px!important;
+        color: #fff!important;
+    }
+    .and_india_final {
+        margin-top: 25px!important;
+        font-size: 13px!important;
+        font-family: 'micronica2010', serif!important;
+    }
+    .and_margin_finalBet_11 {
+        margin-top: 29px!important;
+        padding-left: 0px!important;
+    }
+    .and_margin_finalBet_22 {
+        margin-top: 25px!important;
+        padding-left: 0px!important;
+    }
+    .and_runningBall {
+        width: 130px!important;
+        margin-left: -15px!important;
+    }
+    .and_thirdRunningBall {
+        width: 130px!important;
+        margin-top: 55px!important;
+        margin-left: -14px!important;
+    }
+    .and_cricket-input-card6 {
+        width: 160px!important;
+        border-radius: 24px!important;
+        background: linear-gradient(#faa201, #d85608)!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        padding-top: 0px!important;
+        font-size: 15px!important;
+        /* margin-left: -55px!important; */
+        margin-top: -104px!important;
+        position: absolute!important;
+        left: 52%!important;
+        top: 50%!important;
+        transform: translate(-50%, -50%)!important;
+        text-align: center!important;
+    }
+    .and_burnibgBall_width{
+        width: 315px!important;
+    }
+    .and_margin_top5 {
+        margin-top: 36px!important;
+        margin-left:-37px!important;
+    }
+    .and_margin_top1 {
+        margin-top: -11px!important;
+        margin-left: -37px!important;
+    }
+    .and_cricket-input-card2 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #5b1fba!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card222 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card333 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card555 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#6c9f15,#3b4e1b)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 13px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #a6d033!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket-input-card666 {
+        width: 42px!important;
+        border-radius: 7px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#f92021,#651d20)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 18px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 22px!important;
+        border: 3px solid #d90000!important;
+        position: absolute!important;
+        font-size: 11px!important;
+    }
+    .and_cricket_L_class222 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class333 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .and_cricket_L_class555 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 56px!important;
+    }
+    .and_cricket_L_class666 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 61px!important;
+    }
+    .row_1st {
+        font-size: 14px!important;
+        font-weight: bold!important;
+        color: #ff9933;
+    }
+    .and_margin_top3 {
+        margin-top: 15px!important;
+        margin-left: 11px!important;
+        padding-left: 11px!important;
+        padding-right: 0px!important;
+        margin-left: 37px!important;
+    }
+    .and_thirdNo1 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 5px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 7px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo3 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 5px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 7px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo2 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 12px!important;
+        background-color: #ec3a39!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 8px!important;
+        padding: 4px 3px!important;
+    }
+    .and_thirdNo4 {
+        font-size: 11px!important;
+        font-weight: 800!important;
+        margin-top: 12px!important;
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        width: 28px!important;
+        border-radius: 5px!important;
+        margin-left: 8px!important;
+        padding: 4px 3px!important;
+    }
+    .and_cricket_1st_col {
+        display: flex!important;
+        justify-content: space-around!important;
+        margin-top: -31px!important;
+        padding-left: 17px!important;
+        padding-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .thirdNo {
+        font-size: 14px!important;
+        font-weight: 800!important;
+        margin-top: 7px!important;
+        margin-left: 7px!important;
+    }
+    .and_padding_left_finalBet{
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_padding_left {
+        padding-left: 3px!important;
+        padding-right: 0px!important;
+    }
+    .and_cancel_padding_left {
+        padding-left: 10px!important;
+    }
+    .and_zero_center {
+        text-align: center!important;
+        padding-left: 27px!important;
+    }
+    .and_No_pdding_right{
+    padding-right: 0px!important;
+    }
+    .and_Yes_pdding_right{
+       padding-right: 0px!important;
+    }
+    .and_cricket_header_panel{
+        padding: 7px!important;
+        font-family: 'Noto Sans HK', sans-serif!important;
+        font-size: 14px!important;
+        color: #48b9f8!important;
+    }
+    .and_margin_top2 {
+        margin-top: -13px!important;
+    }
+    .and_cricket-input-card1new{
+        margin-left: -8px!important;
+        width: 106px!important;
+    }
+    .and_cricket-input-card22222{
+        margin-left: 9px!important;
+    }
+    .and_cricket_final_button1 {
+        background: linear-gradient(#9dc82c, #37770c)!important;
+        border: 3px solid #a9e419!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 22px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket_final_button {
+        background: linear-gradient(#f12f30, #aa1b20)!important;
+        border: 3px solid #ff2121!important;
+        color: white!important;
+        text-align: center!important;
+        text-decoration: none!important;
+        display: inline-block!important;
+        cursor: pointer!important;
+        font-weight: bold!important;
+        padding: 0px 8px!important;
+        border-radius: 9px!important;
+        font-size: 16px!important;
+    }
+    .and_cricket-input-card111 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        /* margin-top: 34px!important; */
+        background: radial-gradient(#2b0781,#190455)!important;
+        /* padding-left: 1px!important; */
+        margin-left: 28px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 18px!important;
+    }
+    /* .and_cricket-input-card000 {
+        width: 53px!important;
+        border-radius: 8px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 31px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 28px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 14px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    }
+    .and_cricket_L_class000 {
+        font-size: 19px!important;
+        font-weight: bold!important;
+        margin-left: 89px!important;
+    } */
+    .and_margin_top_row1 {
+        margin-top: 70px!important;
+        padding-left: 19px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+    }
+    .and_margin_top_row2 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .and_margin_top_row3 {
+        padding-left: 6px!important;
+        width: 131%!important;
+        margin-left: -15px!important;
+        padding-left: 19px!important;
+    }
+    .panel-heading {
+        height: 40px!important;
+    }
+    .and_cric_logo_size{
+        width: 240px;
+        margin-top: 16px;
+    
+    }
+    .final_bet_timer {
+        width: 83px!important;
+        border-radius: 10px;
+        height: 62px;
+        margin-left: -7px;
+        background: #1b0985;
+        border: 4px solid #5fb9f5;
+        margin-top: 23px;
+    }
+    .bet_time_font {
+        font-size: 13px;
+        font-weight: bold;
+        margin-top: 7px;
+    }
+    .bet_timing_font {
+        font-family: 'digital';
+        font-size: 14px;
+        color: #b5d2e6;
+    }
+    .and_cricket-input-card000 {
+        width: 60px!important;
+        border-radius: 6px!important;
+        background: radial-gradient(#2b0781,#190455)!important;
+        margin-left: 21px!important;
+        border: 0px!important;
+        font-family: 'Bevan', serif!important;
+        font-weight: 100!important;
+        color: #fff!important;
+        height: 30px!important;
+        border: 3px solid #5b1fba!important;
+        position: absolute!important;
+        font-size: 15px!important;
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+    .and_cricket_L_class000 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 82px!important;
+    }
+    .and_cricket_L_class111 {
+        font-size: 15px!important;
+        font-weight: bold!important;
+        margin-left: 88px!important;
+    }
+    .and_india_final {
+        margin-top: 79px!important;
+        font-size: 15px!important;
+        font-family: 'micronica2010', serif!important;
+        margin-left: 2px;
+    }
+    .and_cricket_2nd_row_1st {
+        display: flex;
+        flex-direction: column;
+        margin-left: -29px;
+        width: 143%;
+    }
+}
+
